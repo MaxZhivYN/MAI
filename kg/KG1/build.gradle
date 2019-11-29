@@ -1,0 +1,55 @@
+plugins {
+    id 'java'
+    id 'maven'
+    id 'application'
+    id 'idea'
+}
+
+group 'mazhivx-mai'
+version '1.0-SNAPSHOT'
+
+sourceCompatibility = 1.8
+targetCompatibility = 1.8
+tasks.withType(JavaCompile) {
+    options.encoding = 'UTF-8'
+}
+
+repositories {
+    mavenCentral()
+    maven { url "https://oss.sonatype.org/content/repositories/snapshots/" }
+    maven { url "http://repo.maven.apache.org/maven2" }
+}
+
+project.ext.lwjglVersion = "3.0.0a"
+project.ext.jomlVersion = "1.9.18"
+
+dependencies {
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+
+    // https://mvnrepository.com/artifact/org.jogamp.jogl/jogl-all-main
+    compile group: 'org.jogamp.jogl', name: 'jogl-all-main', version: '2.3.2'
+
+    compile group: 'org.joml', name: 'joml-camera', version:'1.2.0-SNAPSHOT'
+    compile group: 'org.lwjgl', name: 'lwjgl', version:'3.1.2-SNAPSHOT'
+    compile group: 'org.lwjgl', name: 'lwjgl-glfw', version:'3.1.2-SNAPSHOT'
+    compile group: 'org.lwjgl', name: 'lwjgl-opengl', version:'3.1.2-SNAPSHOT'
+    compile group: 'org.lwjgl', name: 'lwjgl-stb', version:'3.1.2-SNAPSHOT'
+    compile group: 'org.lwjgl', name: 'lwjgl', version:'3.1.2-SNAPSHOT', classifier:'natives-windows'
+    compile group: 'org.lwjgl', name: 'lwjgl-opengl', version:'3.1.2-SNAPSHOT', classifier:'natives-windows'
+    compile group: 'org.lwjgl', name: 'lwjgl-glfw', version:'3.1.2-SNAPSHOT', classifier:'natives-windows'
+    compile group: 'org.lwjgl', name: 'lwjgl-stb', version:'3.1.2-SNAPSHOT', classifier:'natives-windows'
+
+    compile "org.joml:joml:${jomlVersion}"
+
+    // https://mvnrepository.com/artifact/commons-io/commons-io
+    compile group: 'commons-io', name: 'commons-io', version: '2.6'
+}
+
+
+sourceSets {
+    main {
+        java {
+            srcDirs = ["src/main/java", "src/main/resources"]
+        }
+    }
+}

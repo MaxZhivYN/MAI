@@ -1,0 +1,14 @@
+Akranova QW F 1 y 81 78 55 z
+Alvehov ER M 2 n 65 79 88 z
+Bigarov TY M 3 y 1 1 1 z
+Bavanora UI F 1 n 2 2 8 z
+Bechiveg OP M 2 y 32 21 100 z
+Bosirov AS M 3 n 78 90 67 z
+Grigrchuk DF M 1 y 67 55 99 z
+Dmitrovana GH M 2 n 100 100 100 z
+Karavecha JK F 3 y 40 41 42 z
+Kinarsov LZ M 1 n 84 72 78 z
+Mamagaev XC M 2 y 67 89 67 z
+Ratich VB M 3 n 90 12 87 z
+Timoschuk NM F 1 y 67 89 70 z
+Tovirsyan QW M 2 y 76 56 81 z

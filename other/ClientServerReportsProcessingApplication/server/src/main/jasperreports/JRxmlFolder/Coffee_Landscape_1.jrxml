@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Jaspersoft Studio version 6.9.0.final using JasperReports Library version 6.9.0-cb8f9004be492ccc537180b49c026951f4220bf3  -->
+<jasperReport xmlns="http://jasperreports.sourceforge.net/jasperreports" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports http://jasperreports.sourceforge.net/xsd/jasperreport.xsd" name="Coffee_Landscape_1" pageWidth="842" pageHeight="595" orientation="Landscape" columnWidth="802" leftMargin="20" rightMargin="20" topMargin="20" bottomMargin="20" uuid="df013db5-f76e-44d3-b0df-bcbc46d93160">
+	<property name="com.jaspersoft.studio.data.sql.tables" value=""/>
+	<property name="com.jaspersoft.studio.data.defaultdataadapter" value="New Data Adapter (4)"/>
+	<style name="Title" fontName="Times New Roman" fontSize="50" isBold="true"/>
+	<style name="SubTitle" forecolor="#736343" fontName="Arial" fontSize="18"/>
+	<style name="Column header" forecolor="#666666" fontName="Arial" fontSize="12" isBold="true"/>
+	<style name="Detail" fontName="Arial" fontSize="12"/>
+	<style name="Row" mode="Transparent">
+		<conditionalStyle>
+			<conditionExpression><![CDATA[$V{REPORT_COUNT}%2 == 0]]></conditionExpression>
+			<style backcolor="#E6DAC3"/>
+		</conditionalStyle>
+	</style>
+	<queryString language="SQL">
+		<![CDATA[select "Clients"."client_name", "Clients"."email", "Products"."prod_name", "Products"."count", "Purchases"."date" from "Purchases" LEFT OUTER join "Clients" on "Purchases"."id_client" = "Clients"."id" LEFT OUTER join "Products" on "Purchases"."id_product" = "Products"."id"]]>
+	</queryString>
+	<field name="client_name" class="java.lang.String">
+		<property name="com.jaspersoft.studio.field.label" value="name"/>
+		<property name="com.jaspersoft.studio.field.tree.path" value="Clients"/>
+		<fieldDescription><![CDATA[ФИО]]></fieldDescription>
+	</field>
+	<field name="email" class="java.lang.String">
+		<property name="com.jaspersoft.studio.field.label" value="email"/>
+		<property name="com.jaspersoft.studio.field.tree.path" value="Clients"/>
+		<fieldDescription><![CDATA[Электронная почка клиента]]></fieldDescription>
+	</field>
+	<field name="count" class="java.lang.Integer">
+		<property name="com.jaspersoft.studio.field.label" value="count"/>
+		<property name="com.jaspersoft.studio.field.tree.path" value="Products"/>
+		<fieldDescription><![CDATA[Колическтво продукта]]></fieldDescription>
+	</field>
+	<field name="date" class="java.sql.Date">
+		<property name="com.jaspersoft.studio.field.label" value="date"/>
+		<property name="com.jaspersoft.studio.field.tree.path" value="Purchases"/>
+		<fieldDescription><![CDATA[Дата продажи]]></fieldDescription>
+	</field>
+	<field name="prod_name" class="java.lang.String">
+		<property name="com.jaspersoft.studio.field.label" value="name"/>
+		<property name="com.jaspersoft.studio.field.tree.path" value="Products"/>
+		<fieldDescription><![CDATA[Название продукта]]></fieldDescription>
+	</field>
+	<group name="Group1">
+		<groupExpression><![CDATA[$F{client_name}]]></groupExpression>
+		<groupHeader>
+			<band height="37"/>
+		</groupHeader>
+		<groupFooter>
+			<band height="6"/>
+		</groupFooter>
+	</group>
+	<group name="Group2">
+		<groupExpression><![CDATA[$F{email}]]></groupExpression>
+		<groupHeader>
+			<band height="54">
+				<textField>
+					<reportElement style="SubTitle" x="130" y="10" width="100" height="20" uuid="f12f6bf3-7d7e-4d80-a7a9-29937604f672"/>
+					<textElement>
+						<font size="16" isBold="true"/>
+					</textElement>
+					<textFieldExpression><![CDATA[$F{email}]]></textFieldExpression>
+				</textField>
+				<frame>
+					<reportElement x="240" y="8" width="100" height="20" uuid="1beb1657-5381-4458-b8b6-302c70805f74"/>
+					<textField>
+						<reportElement x="0" y="0" width="100" height="20" uuid="59c23334-7931-4fb3-8a9f-ed15dc3c955d"/>
+						<textFieldExpression><![CDATA[$F{prod_name}]]></textFieldExpression>
+					</textField>
+				</frame>
+				<textField>
+					<reportElement x="350" y="3" width="100" height="30" uuid="9b8f8b7e-b39a-4ba1-835a-847925427e1e"/>
+					<textFieldExpression><![CDATA[$F{count}]]></textFieldExpression>
+				</textField>
+				<textField>
+					<reportElement x="433" y="-2" width="100" height="30" uuid="a91ef4f3-1ea6-4c8d-9549-a44d4b5adfe8"/>
+					<textFieldExpression><![CDATA[$F{date}]]></textFieldExpression>
+				</textField>
+				<textField>
+					<reportElement key="" x="10" y="8" width="100" height="30" uuid="e3a77eef-9be7-440d-b63a-2cca4cc2dfe8"/>
+					<textFieldExpression><![CDATA[$F{client_name}]]></textFieldExpression>
+				</textField>
+			</band>
+		</groupHeader>
+	</group>
+	<group name="count">
+		<groupExpression><![CDATA[$F{count}]]></groupExpression>
+	</group>
+	<group name="date">
+		<groupExpression><![CDATA[$F{date}]]></groupExpression>
+	</group>
+	<group name="COLUMN_3">
+		<groupExpression><![CDATA[$F{prod_name}]]></groupExpression>
+	</group>
+	<background>
+		<band splitType="Stretch"/>
+	</background>
+	<title>
+		<band height="136" splitType="Stretch">
+			<staticText>
+				<reportElement style="Title" x="270" y="0" width="263" height="62" uuid="bc1ce1da-8232-46ea-be55-cec4abb986dd"/>
+				<textElement verticalAlignment="Middle"/>
+				<text><![CDATA[Coffee Title]]></text>
+			</staticText>
+			<staticText>
+				<reportElement style="SubTitle" x="303" y="62" width="196" height="22" uuid="f6a78448-8260-4445-a9e0-e3fb53b080d9"/>
+				<textElement>
+					<font fontName="Times New Roman"/>
+				</textElement>
+				<text><![CDATA[Coffee SubTitle]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="172" y="94" width="383" height="42" uuid="8240065e-64b6-4170-b5d9-6341598e7b35"/>
+				<textElement textAlignment="Right">
+					<font size="10"/>
+				</textElement>
+				<text><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce auctor purus gravida arcu aliquam mattis. Donec et nulla libero, ut varius massa. Nulla sed turpis elit. Etiam aliquet mauris a ligula hendrerit in auctor leo lobortis.]]></text>
+			</staticText>
+		</band>
+	</title>
+	<pageHeader>
+		<band splitType="Stretch"/>
+	</pageHeader>
+	<columnHeader>
+		<band height="53" splitType="Stretch">
+			<line>
+				<reportElement positionType="FixRelativeToBottom" x="0" y="15" width="802" height="1" uuid="e9d2002a-c8ee-4649-a258-640dad29110c"/>
+				<graphicElement>
+					<pen lineWidth="0.5" lineColor="#999999"/>
+				</graphicElement>
+			</line>
+			<textField>
+				<reportElement x="70" y="12" width="100" height="30" uuid="ed568ea7-fd01-4280-8304-ace8d4c50272"/>
+				<textFieldExpression><![CDATA["имя"]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="200" y="15" width="100" height="30" uuid="f5fec232-f5a3-43f9-a10a-204ea71439ed"/>
+				<textFieldExpression><![CDATA["че-то еще"]]></textFieldExpression>
+			</textField>
+		</band>
+	</columnHeader>
+	<detail>
+		<band height="15" splitType="Stretch"/>
+	</detail>
+	<summary>
+		<band splitType="Stretch"/>
+	</summary>
+</jasperReport>

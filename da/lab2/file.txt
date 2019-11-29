@@ -1,0 +1,10001 @@
++ a 1
++ bceca 1
++ fecad 1
++ cd 1
++ ffb 1
++ dcf 1
++ afdef 1
++ cdcc 1
++ faceee 1
++ cfd 1
++ fcceed 1
++ b 1
++ abd 1
++ aec 1
++ aeb 1
++ fdbbbe 1
++ fbac 1
++ ab 1
++ ebfea 1
++ badfd 1
++ ffedec 1
++ ababe 1
++ ab 1
++ ac 1
++ cbcabb 1
++ ac 1
++ dbccd 1
++ ffddfc 1
++ ddc 1
++ cbebd 1
++ c 1
++ bbb 1
++ da 1
++ ccd 1
++ badcdc 1
++ dfaac 1
++ f 1
++ a 1
++ a 1
++ cad 1
++ faccc 1
++ dfddc 1
++ eeab 1
++ efe 1
++ eeefd 1
++ f 1
++ bdcb 1
++ cbbf 1
++ ca 1
++ ae 1
++ e 1
++ c 1
++ fee 1
++ adb 1
++ bead 1
++ b 1
++ dbc 1
++ fbff 1
++ dea 1
++ ea 1
++ be 1
++ d 1
++ bcacbf 1
++ baee 1
++ abebfe 1
++ cccc 1
++ cdfbb 1
++ ea 1
++ eded 1
++ dbccb 1
++ b 1
++ babd 1
++ bd 1
++ dfeb 1
++ e 1
++ cef 1
++ fc 1
++ efe 1
++ fdfba 1
++ fafaf 1
++ b 1
++ aace 1
++ eba 1
++ aa 1
++ ac 1
++ eeefbd 1
++ abcdf 1
++ cb 1
++ cfe 1
++ b 1
++ f 1
++ af 1
++ fabeca 1
++ ab 1
++ efd 1
++ bdfdc 1
++ d 1
++ cd 1
++ b 1
++ fb 1
++ faced 1
++ cedc 1
++ f 1
++ cd 1
++ f 1
++ b 1
++ aeabaa 1
++ fdb 1
++ cfab 1
++ dba 1
++ dfdfb 1
++ deedd 1
++ bbef 1
++ aecfaf 1
++ eefbf 1
++ ddcaad 1
++ bfa 1
++ cdebb 1
++ afad 1
++ eab 1
++ ead 1
++ de 1
++ acc 1
++ ec 1
++ ea 1
++ ae 1
++ fadf 1
++ ebcea 1
++ aefac 1
++ cafd 1
++ dfaffa 1
++ cdfcec 1
++ dbafc 1
++ aadaa 1
++ aedde 1
++ ccbac 1
++ cd 1
++ caead 1
++ aafcee 1
++ cebd 1
++ cebe 1
++ bffeef 1
++ cf 1
++ af 1
++ edb 1
++ dfba 1
++ efd 1
++ fbedef 1
++ ddb 1
++ d 1
++ fc 1
++ cda 1
++ ebab 1
++ eb 1
++ deecec 1
++ cbae 1
++ bcac 1
++ ccc 1
++ aaba 1
++ d 1
++ fe 1
++ a 1
++ eb 1
++ eedf 1
++ fadca 1
++ cbeee 1
++ cefdfa 1
++ b 1
++ ecafd 1
++ ebbae 1
++ caa 1
++ a 1
++ ed 1
++ bfaea 1
++ caaafb 1
++ c 1
++ cadcf 1
++ e 1
++ ac 1
++ fcdcad 1
++ eb 1
++ d 1
++ abcda 1
++ ad 1
++ eafb 1
++ b 1
++ feb 1
++ ede 1
++ adafd 1
++ dcce 1
++ dfdaca 1
++ abdfc 1
++ bbe 1
++ cabcdb 1
++ f 1
++ dbf 1
++ eaeaaf 1
++ e 1
++ fbcbbc 1
++ db 1
++ dbef 1
++ e 1
++ dfdaf 1
++ ad 1
++ ecfcfd 1
++ acb 1
++ dfb 1
++ acdfdf 1
++ ee 1
++ ebecd 1
++ af 1
++ adccbe 1
++ babcd 1
++ da 1
++ edacbd 1
++ bfaea 1
++ bfecb 1
++ debecc 1
++ fbcdaa 1
++ b 1
++ f 1
++ eab 1
++ cfa 1
++ feaed 1
++ aea 1
++ e 1
++ dabaaf 1
++ ffcfd 1
++ e 1
++ dedfbc 1
++ fdbeaa 1
++ efacf 1
++ dcdac 1
++ adde 1
++ ea 1
++ dbadf 1
++ cdc 1
++ fea 1
++ bdcc 1
++ dcbaaf 1
++ de 1
++ d 1
++ bdb 1
++ cdf 1
++ dfab 1
++ eaaa 1
++ adf 1
++ bd 1
++ caaae 1
++ cbec 1
++ fb 1
++ afebc 1
++ ada 1
++ bdb 1
++ e 1
++ ffddfb 1
++ f 1
++ c 1
++ bbb 1
++ bacb 1
++ cb 1
++ dbd 1
++ ddbaa 1
++ d 1
++ fdefb 1
++ bb 1
++ c 1
++ abefa 1
++ ecaffe 1
++ a 1
++ abdcfd 1
++ baea 1
++ ff 1
++ cf 1
++ e 1
++ ade 1
++ d 1
++ faea 1
++ cfbc 1
++ cfdcc 1
++ bfbab 1
++ beafb 1
++ edfdb 1
++ bcee 1
++ eafc 1
++ feaad 1
++ bd 1
++ afddaf 1
++ be 1
++ aacd 1
++ bea 1
++ ec 1
++ badcce 1
++ db 1
++ cc 1
++ abe 1
++ a 1
++ ae 1
++ ba 1
++ aae 1
++ bdd 1
++ ffbbec 1
++ fcfa 1
++ fe 1
++ dddbef 1
++ bf 1
++ dfaeca 1
++ affe 1
++ c 1
++ cfc 1
++ ce 1
++ f 1
++ ca 1
++ bbce 1
++ fdfefd 1
++ ddecde 1
++ dcede 1
++ beb 1
++ eece 1
++ abebaa 1
++ eacfce 1
++ b 1
++ d 1
++ eefe 1
++ d 1
++ bacecb 1
++ bdebe 1
++ dcfa 1
++ cad 1
++ c 1
++ dacba 1
++ bcbd 1
++ beccf 1
++ cbbfd 1
++ eabebb 1
++ e 1
++ baafd 1
++ fdadee 1
++ bbcdd 1
++ aedee 1
++ deb 1
++ aa 1
++ aea 1
++ bf 1
++ bdbdb 1
++ edd 1
++ fd 1
++ a 1
++ c 1
++ bee 1
++ ecd 1
++ ede 1
++ caafbb 1
++ bfaef 1
++ afea 1
++ ebeabc 1
++ efe 1
++ bd 1
++ fbbfc 1
++ a 1
++ e 1
++ fbdc 1
++ bbccfc 1
++ ad 1
++ f 1
++ be 1
++ dbefaf 1
++ ffbc 1
++ cde 1
++ e 1
++ cedcfd 1
++ fabfce 1
++ daf 1
++ fcdcb 1
++ eeaa 1
++ eec 1
++ fef 1
++ efa 1
++ ccbe 1
++ bebfec 1
++ af 1
++ cfceb 1
++ e 1
++ fc 1
++ fe 1
++ fbafa 1
++ faa 1
++ fdbed 1
++ a 1
++ edbfbf 1
++ bf 1
++ aee 1
++ dedee 1
++ c 1
++ ffaa 1
++ deca 1
++ fbc 1
++ e 1
++ fdde 1
++ fc 1
++ bdbfeb 1
++ bac 1
++ bd 1
++ dbcacc 1
++ ed 1
++ cecbd 1
++ eea 1
++ dcee 1
++ eeca 1
++ bdd 1
++ ee 1
++ dc 1
++ bccee 1
++ acbeaf 1
++ e 1
++ dd 1
++ fbbfed 1
++ afedb 1
++ ded 1
++ ac 1
++ aceafc 1
++ aaef 1
++ ffab 1
++ dab 1
++ ba 1
++ ec 1
++ dcfdb 1
++ ff 1
++ b 1
++ afe 1
++ bbcbbe 1
++ bdd 1
++ edb 1
++ befef 1
++ f 1
++ fdaad 1
++ ebea 1
++ ebaa 1
++ b 1
++ cdf 1
++ ceab 1
++ ffae 1
++ ecc 1
++ fbecfa 1
++ e 1
++ aefaa 1
++ dcfc 1
++ edf 1
++ db 1
++ fdaf 1
++ fb 1
++ cb 1
++ ef 1
++ cfaaad 1
++ f 1
++ abaa 1
++ c 1
++ db 1
++ bece 1
++ d 1
++ f 1
++ eddec 1
++ fa 1
++ fdea 1
++ deeff 1
++ eabbcf 1
++ fe 1
++ dcbfb 1
++ ee 1
++ fb 1
++ ebafd 1
++ cbc 1
++ b 1
++ be 1
++ a 1
++ cdff 1
++ ceaac 1
++ edcadc 1
++ afbbfb 1
++ ab 1
++ efabcf 1
++ ffcda 1
++ ccd 1
++ cafbf 1
++ cebbf 1
++ ac 1
++ adca 1
++ a 1
++ aacead 1
++ e 1
++ ceebba 1
++ abcd 1
++ d 1
++ c 1
++ de 1
++ dd 1
++ bbffca 1
++ aafcca 1
++ bbcce 1
++ bfdb 1
++ efdaa 1
++ bca 1
++ ea 1
++ ceeeb 1
++ ace 1
++ c 1
++ e 1
++ db 1
++ bea 1
++ eaffa 1
++ eedbea 1
++ dffbfb 1
++ fba 1
++ cf 1
++ dd 1
++ afefde 1
++ fbd 1
++ f 1
++ dacd 1
++ bec 1
++ eaaadf 1
++ bfeed 1
++ bf 1
++ ba 1
++ becfe 1
++ aec 1
++ ebaef 1
++ ce 1
++ bbfd 1
++ afc 1
++ ea 1
++ fcdc 1
++ aadafa 1
++ dc 1
++ ecabb 1
++ afc 1
++ ecfcd 1
++ fd 1
++ aceae 1
++ ded 1
++ af 1
++ bafcaf 1
++ cc 1
++ fffaaf 1
++ ffed 1
++ cebabc 1
++ ffffe 1
++ fcd 1
++ ebedac 1
++ fedcc 1
++ aecbc 1
++ dab 1
++ eef 1
++ d 1
++ bc 1
++ cfeb 1
++ ceddbd 1
++ b 1
++ aababa 1
++ bcdaae 1
++ bfcceb 1
++ dbbf 1
++ aabf 1
++ f 1
++ faafdc 1
++ fa 1
++ da 1
++ ca 1
++ ef 1
++ afdfa 1
++ fbdda 1
++ debc 1
++ b 1
++ fcb 1
++ a 1
++ dab 1
++ ef 1
++ dd 1
++ dfcca 1
++ abcddd 1
++ edae 1
++ aefbd 1
++ d 1
++ ecaffb 1
++ bdceb 1
++ febcf 1
++ ddab 1
++ ceffd 1
++ e 1
++ bc 1
++ adafa 1
++ daa 1
++ cfc 1
++ dfd 1
++ fffb 1
++ dedfde 1
++ bcf 1
++ be 1
++ decfa 1
++ aaf 1
++ cacbde 1
++ eacce 1
++ edfbf 1
++ d 1
++ bf 1
++ fedf 1
++ aceaf 1
++ c 1
++ ea 1
++ aa 1
++ debcea 1
++ b 1
++ cbabde 1
++ beaad 1
++ edcc 1
++ eb 1
++ bee 1
++ eca 1
++ cdebc 1
++ eebd 1
++ a 1
++ db 1
++ eecaad 1
++ f 1
++ eadfaf 1
++ cc 1
++ e 1
++ ecfbcd 1
++ ee 1
++ c 1
++ a 1
++ a 1
++ ae 1
++ debcc 1
++ befbce 1
++ cbedef 1
++ be 1
++ be 1
++ a 1
++ aecba 1
++ dcb 1
++ fafbc 1
++ ceb 1
++ aeebcf 1
++ ff 1
++ deddfb 1
++ bdedcc 1
++ cf 1
++ cbcb 1
++ ffbfca 1
++ cffea 1
++ bbac 1
++ fed 1
++ ff 1
++ afdba 1
++ adcf 1
++ ccbbfd 1
++ af 1
++ bbc 1
++ d 1
++ fccedb 1
++ ebccee 1
++ ea 1
++ db 1
++ ba 1
++ eaafde 1
++ ce 1
++ faea 1
++ aaacce 1
++ efd 1
++ e 1
++ bfc 1
++ facafd 1
++ bfaf 1
++ ecee 1
++ ebf 1
++ d 1
++ cda 1
++ edebb 1
++ cbcdcd 1
++ cae 1
++ ca 1
++ decc 1
++ aefd 1
++ baa 1
++ f 1
++ dbefdb 1
++ d 1
++ ab 1
++ a 1
++ ed 1
++ edbeb 1
++ a 1
++ bacff 1
++ cfdbae 1
++ de 1
++ feaeab 1
++ ffb 1
++ efba 1
++ bc 1
++ fbbcd 1
++ c 1
++ cf 1
++ bccf 1
++ cbffeb 1
++ cacd 1
++ edebdd 1
++ ed 1
++ ffad 1
++ bdcadb 1
++ dfeeaf 1
++ b 1
++ ece 1
++ dbeb 1
++ ffceaf 1
++ dcba 1
++ ed 1
++ dffaae 1
++ cab 1
++ e 1
++ c 1
++ facaec 1
++ fffaeb 1
++ fabfd 1
++ db 1
++ fbb 1
++ dbab 1
++ ad 1
++ caebdc 1
++ fb 1
++ dfface 1
++ dacc 1
++ aebefa 1
++ afeeb 1
++ adefeb 1
++ d 1
++ a 1
++ dbadcb 1
++ afce 1
++ caa 1
++ ef 1
++ bfe 1
++ cced 1
++ d 1
++ da 1
++ cb 1
++ bcde 1
++ feefe 1
++ bdaaae 1
++ defe 1
++ ada 1
++ e 1
++ a 1
++ ba 1
++ dfb 1
++ da 1
++ bfbfdb 1
++ ae 1
++ eaceea 1
++ aadc 1
++ deaaeb 1
++ cab 1
++ baf 1
++ fe 1
++ ecea 1
++ aebac 1
++ afe 1
++ fcba 1
++ dfdda 1
++ bb 1
++ d 1
++ fdbdbb 1
++ bfe 1
++ ae 1
++ ddacec 1
++ dabb 1
++ ab 1
++ def 1
++ dcdec 1
++ bbebd 1
++ ca 1
++ ec 1
++ cdebd 1
++ bedc 1
++ c 1
++ d 1
++ bffa 1
++ e 1
++ abfca 1
++ fcdbef 1
++ b 1
++ bde 1
++ be 1
++ ebabfe 1
++ ba 1
++ dacbdb 1
++ aa 1
++ faefff 1
++ ea 1
++ d 1
++ fbb 1
++ abe 1
++ a 1
++ eaabbf 1
++ ffcdbc 1
++ fda 1
++ bbeb 1
++ fbba 1
++ bbcebc 1
++ bcdeff 1
++ ebc 1
++ dbfc 1
++ dbd 1
++ deb 1
++ ecf 1
++ bff 1
++ f 1
++ fcc 1
++ bbbcca 1
++ fb 1
++ aefdd 1
++ e 1
++ ab 1
++ be 1
++ a 1
++ dfefc 1
++ abab 1
++ fad 1
++ ebb 1
++ c 1
++ cbfdce 1
++ bebeba 1
++ bd 1
++ db 1
++ fba 1
++ d 1
++ fcdc 1
++ fb 1
++ acafd 1
++ bbef 1
++ ecb 1
++ ec 1
++ daeed 1
++ eadd 1
++ dbdf 1
++ baccfb 1
++ fdbaed 1
++ c 1
++ feccb 1
++ bdbca 1
++ a 1
++ afdc 1
++ cbebed 1
++ cbecdd 1
++ e 1
++ aced 1
++ bbcfe 1
++ cff 1
++ be 1
++ cdcfdb 1
++ efae 1
++ cc 1
++ edfd 1
++ cca 1
++ cfbde 1
++ a 1
++ bbeea 1
++ ad 1
++ f 1
++ afced 1
++ cf 1
++ ceaf 1
++ ba 1
++ f 1
++ ea 1
++ c 1
++ acdc 1
++ a 1
++ a 1
++ a 1
++ bcaed 1
++ ab 1
++ c 1
++ aa 1
++ f 1
++ bffce 1
++ dafeed 1
++ ffb 1
++ edafec 1
++ eddedd 1
++ c 1
++ f 1
++ cca 1
++ f 1
++ fceec 1
++ dacdde 1
++ ccad 1
++ c 1
++ f 1
++ fcf 1
++ fdaeff 1
++ ddfaef 1
++ fcb 1
++ cbbf 1
++ b 1
++ fcbbf 1
++ e 1
++ adb 1
++ aeafec 1
++ ecc 1
++ defe 1
++ fe 1
++ caed 1
++ dabdda 1
++ de 1
++ aaccce 1
++ ebadd 1
++ ab 1
++ afbb 1
++ cbdee 1
++ dffc 1
++ debaad 1
++ fdfbf 1
++ acda 1
++ ec 1
++ aaa 1
++ dda 1
++ ddaa 1
++ eaaa 1
++ effba 1
++ bbda 1
++ e 1
++ eec 1
++ bdccb 1
++ d 1
++ bf 1
++ baddda 1
++ ecb 1
++ dcdbcf 1
++ defaeb 1
++ ecadca 1
++ abad 1
++ b 1
++ cadfca 1
++ daeacd 1
++ e 1
++ adfe 1
++ fcbfc 1
++ b 1
++ b 1
++ c 1
++ df 1
++ eef 1
++ bfc 1
++ dabbb 1
++ aaeafe 1
++ fdc 1
++ dcaba 1
++ d 1
++ ddd 1
++ dad 1
++ ff 1
++ ed 1
++ db 1
++ f 1
++ ececd 1
++ cefafb 1
++ cfdd 1
++ ffcc 1
++ b 1
++ fced 1
++ ab 1
++ fe 1
++ eebdf 1
++ c 1
++ b 1
++ cecbdf 1
++ beaa 1
++ e 1
++ ffdac 1
++ ca 1
++ dbbcb 1
++ db 1
++ fdcd 1
++ f 1
++ eddea 1
++ dfcbfe 1
++ fcfed 1
++ fc 1
++ eec 1
++ ada 1
++ ffbcb 1
++ bd 1
++ eedaa 1
++ a 1
++ cdfcd 1
++ a 1
++ ca 1
++ d 1
++ eceddd 1
++ cabefd 1
++ dbebe 1
++ febfcc 1
++ dccaec 1
++ cdffa 1
++ a 1
++ dbbad 1
++ abbf 1
++ ccfefa 1
++ fabbcd 1
++ ccdc 1
++ fd 1
++ e 1
++ dc 1
++ cd 1
++ ffefb 1
++ feca 1
++ c 1
++ b 1
++ ccacbf 1
++ bebfea 1
++ fdfcbc 1
++ fb 1
++ f 1
++ ebafaa 1
++ ad 1
++ eae 1
++ f 1
++ ea 1
++ dbddc 1
++ efdc 1
++ caeaaf 1
++ fd 1
++ abc 1
++ bcb 1
++ afeb 1
++ bb 1
++ afbcc 1
++ baa 1
++ ffebbc 1
++ cec 1
++ dfcdc 1
++ cdca 1
++ ba 1
++ dad 1
++ ecf 1
++ eadfd 1
++ ddbf 1
++ b 1
++ cee 1
++ f 1
++ faa 1
++ ce 1
++ cdc 1
++ ff 1
++ ced 1
++ fafea 1
++ adbcba 1
++ efba 1
++ acbbdc 1
++ c 1
++ aafef 1
++ cecb 1
++ fcd 1
++ becaf 1
++ f 1
++ bace 1
++ a 1
++ d 1
++ ec 1
++ dedf 1
++ c 1
++ dfd 1
++ eb 1
++ ee 1
++ bab 1
++ cffddc 1
++ bdf 1
++ bdc 1
++ fc 1
++ cfdae 1
++ ccedc 1
++ cdca 1
++ d 1
++ acd 1
++ feafde 1
++ fe 1
++ cdcfd 1
++ bbffb 1
++ f 1
++ ed 1
++ eff 1
++ cc 1
++ b 1
++ ecda 1
++ f 1
++ ae 1
++ deecdd 1
++ cda 1
++ fcbc 1
++ dcdd 1
++ f 1
++ deca 1
++ cfcfbe 1
++ ecfaff 1
++ cffcd 1
++ f 1
++ d 1
++ ebacda 1
++ fd 1
++ fea 1
++ caebd 1
++ ff 1
++ ca 1
++ cfa 1
++ c 1
++ fcacc 1
++ b 1
++ c 1
++ cabfb 1
++ aecd 1
++ bfc 1
++ ffed 1
++ ac 1
++ be 1
++ be 1
++ bacbfb 1
++ cbf 1
++ cbeb 1
++ ae 1
++ ccfce 1
++ dbfcf 1
++ bdbbda 1
++ ffac 1
++ ff 1
++ a 1
++ eebabd 1
++ dfadfd 1
++ b 1
++ f 1
++ dfd 1
++ ec 1
++ fbcf 1
++ f 1
++ eace 1
++ bbb 1
++ cecadc 1
++ feebfc 1
++ afcb 1
++ caaff 1
++ dbb 1
++ aad 1
++ adccd 1
++ ebedcf 1
++ bcfec 1
++ ebce 1
++ dfd 1
++ fa 1
++ f 1
++ afad 1
++ aaf 1
++ fbd 1
++ afccdb 1
++ beaab 1
++ df 1
++ acdebb 1
++ b 1
++ db 1
++ fccdc 1
++ fddcf 1
++ cd 1
++ b 1
++ fbdacb 1
++ df 1
++ c 1
++ ff 1
++ f 1
++ bb 1
++ bfed 1
++ edd 1
++ eacde 1
++ adb 1
++ bf 1
++ ceb 1
++ dab 1
++ bcaf 1
++ aded 1
++ d 1
++ caa 1
++ ebb 1
++ c 1
++ c 1
++ cbedf 1
++ e 1
++ a 1
++ dcefa 1
++ f 1
++ cf 1
++ abe 1
++ ae 1
++ eea 1
++ d 1
++ bcdaad 1
++ cfb 1
++ ef 1
++ f 1
++ ffdeec 1
++ aea 1
++ faac 1
++ bfffac 1
++ eb 1
++ cea 1
++ bdfefb 1
++ b 1
++ fb 1
++ cfd 1
++ febcb 1
++ eddfdd 1
++ eb 1
++ fea 1
++ ffeeee 1
++ ad 1
++ cae 1
++ df 1
++ b 1
++ cfe 1
++ aaeb 1
++ cbcfab 1
++ cfdaa 1
++ cbddea 1
++ dde 1
++ b 1
++ ff 1
++ aeebb 1
++ aaaaf 1
++ bf 1
++ b 1
++ bdabf 1
++ cdebc 1
++ aedd 1
++ dcfb 1
++ fff 1
++ accab 1
++ dbca 1
++ dbcc 1
++ dbaf 1
++ daacf 1
++ fef 1
++ dbfd 1
++ aec 1
++ e 1
++ dffaab 1
++ ae 1
++ bedd 1
++ da 1
++ cdadad 1
++ afebd 1
++ ccba 1
++ cf 1
++ ac 1
++ cded 1
++ f 1
++ a 1
++ b 1
++ bca 1
++ ccedff 1
++ e 1
++ fedaef 1
++ eb 1
++ f 1
++ deabfc 1
++ f 1
++ a 1
++ ccdfbd 1
++ facaa 1
++ dabeef 1
++ bdeca 1
++ dfebf 1
++ bcdbd 1
++ adaebd 1
++ be 1
++ f 1
++ eeea 1
++ eeccab 1
++ cc 1
++ fd 1
++ dbd 1
++ fc 1
++ beafb 1
++ deabd 1
++ fdbdea 1
++ efccbd 1
++ ce 1
++ eceadd 1
++ fee 1
++ fbeced 1
++ adceae 1
++ fcaba 1
++ adbe 1
++ eedcc 1
++ bdf 1
++ bc 1
++ feaee 1
++ ccead 1
++ dbec 1
++ c 1
++ e 1
++ afffce 1
++ c 1
++ ebbefd 1
++ af 1
++ edaa 1
++ eca 1
++ d 1
++ ddcb 1
++ edbe 1
++ a 1
++ b 1
++ dfd 1
++ ebaf 1
++ aa 1
++ cacdb 1
++ fdfaa 1
++ b 1
++ bfecc 1
++ f 1
++ deed 1
++ eb 1
++ ae 1
++ c 1
++ ba 1
++ ddede 1
++ b 1
++ feff 1
++ fdfbf 1
++ ab 1
++ cbe 1
++ ceb 1
++ c 1
++ cbbef 1
++ bc 1
++ ecfb 1
++ caab 1
++ cc 1
++ badb 1
++ eaf 1
++ ce 1
++ a 1
++ fffc 1
++ fffa 1
++ d 1
++ be 1
++ dbcc 1
++ eef 1
++ baefa 1
++ cebaa 1
++ debee 1
++ fddafd 1
++ b 1
++ cdeefc 1
++ ebe 1
++ fffdca 1
++ de 1
++ cbfe 1
++ ebedea 1
++ bfdbf 1
++ c 1
++ ffbcd 1
++ ccbf 1
++ beddc 1
++ cacbaa 1
++ d 1
++ bdc 1
++ fbb 1
++ b 1
++ edfda 1
++ cfaa 1
++ dcfdbd 1
++ bbdd 1
++ ffb 1
++ affdd 1
++ ce 1
++ fb 1
++ dbdad 1
++ d 1
++ eeadcb 1
++ feacdd 1
++ ab 1
++ cfc 1
++ eeafae 1
++ afac 1
++ efda 1
++ bccdf 1
++ c 1
++ fdfcfc 1
++ bc 1
++ b 1
++ b 1
++ f 1
++ cbeacc 1
++ ded 1
++ cdbba 1
++ fabbb 1
++ cac 1
++ f 1
++ efc 1
++ bcfbdb 1
++ afbbab 1
++ ee 1
++ ff 1
++ af 1
++ caeeeb 1
++ bafab 1
++ bfc 1
++ edffcc 1
++ dfbc 1
++ abbeed 1
++ dad 1
++ fcffb 1
++ bab 1
++ eae 1
++ c 1
++ fdcdbb 1
++ adacf 1
++ e 1
++ deac 1
++ dbeedc 1
++ bce 1
++ ffecf 1
++ fffff 1
++ dbfef 1
++ e 1
++ bfbd 1
++ b 1
++ fdcdaf 1
++ dea 1
++ b 1
++ dbca 1
++ bca 1
++ abefab 1
++ bfecff 1
++ cbd 1
++ fd 1
++ dab 1
++ eeea 1
++ cad 1
++ d 1
++ aa 1
++ dcc 1
++ cee 1
++ ad 1
++ daacbd 1
++ dffdb 1
++ acff 1
++ d 1
++ da 1
++ daab 1
++ ed 1
++ f 1
++ ebcb 1
++ e 1
++ db 1
++ eac 1
++ fabf 1
++ faaf 1
++ aecdd 1
++ ebd 1
++ dbcce 1
++ cba 1
++ edddab 1
++ bbf 1
++ feacbc 1
++ c 1
++ fdff 1
++ bfccdf 1
++ bcafdb 1
++ d 1
++ e 1
++ ced 1
++ edeb 1
++ b 1
++ a 1
++ afbade 1
++ caebcf 1
++ d 1
++ cdae 1
++ b 1
++ efb 1
++ fcc 1
++ aadab 1
++ ebdccd 1
++ aa 1
++ aceec 1
++ e 1
++ dabca 1
++ ea 1
++ feaecb 1
++ ecf 1
++ aecb 1
++ e 1
++ acaf 1
++ e 1
++ acdfa 1
++ cedb 1
++ db 1
++ debb 1
++ baa 1
++ cbccea 1
++ aaadd 1
++ e 1
++ c 1
++ f 1
++ defe 1
++ efd 1
++ edcace 1
++ eee 1
++ deaac 1
++ eeeda 1
++ bfdcdb 1
++ afacdb 1
++ dfdbee 1
++ cffadd 1
++ fdce 1
++ e 1
++ bfdbc 1
++ efd 1
++ cceb 1
++ deead 1
++ bacecc 1
++ cabc 1
++ dddf 1
++ aaaaad 1
++ da 1
++ beaeff 1
++ ebbfb 1
++ ed 1
++ bfae 1
++ bcd 1
++ da 1
++ eeaf 1
++ bcf 1
++ a 1
++ fb 1
++ ebdae 1
++ fcbbd 1
++ edac 1
++ cacca 1
++ cebc 1
++ accd 1
++ dd 1
++ bcfa 1
++ be 1
++ ccaaf 1
++ afdebb 1
++ bfcd 1
++ fcccfb 1
++ dcd 1
++ efe 1
++ a 1
++ fdc 1
++ aed 1
++ c 1
++ dcacbd 1
++ dab 1
++ bdadba 1
++ aefdba 1
++ f 1
++ dfc 1
++ a 1
++ fafac 1
++ e 1
++ dafeb 1
++ cffecc 1
++ cccf 1
++ afcee 1
++ fd 1
++ fc 1
++ d 1
++ ebbfab 1
++ fff 1
++ cfadce 1
++ ca 1
++ aaebfe 1
++ dfbb 1
++ a 1
++ ecbbfe 1
++ ae 1
++ da 1
++ ecbd 1
++ b 1
++ c 1
++ ed 1
++ bcead 1
++ edce 1
++ bfc 1
++ eddbba 1
++ dac 1
++ ad 1
++ efeede 1
++ eb 1
++ bff 1
++ cff 1
++ b 1
++ faa 1
++ dfbefc 1
++ ba 1
++ adcfc 1
++ cb 1
++ f 1
++ cc 1
++ a 1
++ adef 1
++ fecc 1
++ dbdd 1
++ beaaeb 1
++ fcf 1
++ c 1
++ edf 1
++ adcb 1
++ ae 1
++ bbec 1
++ eda 1
++ effec 1
++ cbcefd 1
++ ad 1
++ cfea 1
++ bc 1
++ d 1
++ cfacb 1
++ fbe 1
++ ead 1
++ c 1
++ d 1
++ bfbdc 1
++ cbce 1
++ fa 1
++ dade 1
++ b 1
++ fdcf 1
++ aaeee 1
++ bdbbab 1
++ cfd 1
++ deccfb 1
++ aeb 1
++ efbf 1
++ ebbbce 1
++ d 1
++ bfc 1
++ abcec 1
++ dbecd 1
++ f 1
++ dfb 1
++ d 1
++ bcc 1
++ dffecb 1
++ acde 1
++ ffd 1
++ bbdf 1
++ ecce 1
++ effacc 1
++ bfdc 1
++ d 1
++ dffc 1
++ bfc 1
++ b 1
++ dd 1
++ dcab 1
++ ffcaad 1
++ defefa 1
++ eafd 1
++ bdeaec 1
++ bc 1
++ ab 1
++ fdfffc 1
++ b 1
++ ea 1
++ bcffac 1
++ bfdaf 1
++ fbaac 1
++ fecd 1
++ cd 1
++ bcc 1
++ b 1
++ fec 1
++ dceaad 1
++ fca 1
++ fddbde 1
++ ffc 1
++ f 1
++ abe 1
++ dfbe 1
++ fe 1
++ bf 1
++ bfced 1
++ febfea 1
++ ea 1
++ dfce 1
++ bfb 1
++ d 1
++ fccd 1
++ cfcd 1
++ bbd 1
++ dcaccc 1
++ febb 1
++ fabc 1
++ acedf 1
++ dbbdb 1
++ ba 1
++ beeda 1
++ acfbfe 1
++ eee 1
++ acadb 1
++ fa 1
++ efdee 1
++ cafba 1
++ ddbdbb 1
++ dfebfe 1
++ edbfb 1
++ efbabc 1
++ bddaaa 1
++ bfebcb 1
++ bbfd 1
++ cfcb 1
++ fac 1
++ aeebfb 1
++ dfdfef 1
++ ebffa 1
++ ddeae 1
++ cdecae 1
++ f 1
++ decb 1
++ deadc 1
++ cbccdd 1
++ bdba 1
++ eeafa 1
++ cdceeb 1
++ bfd 1
++ baeac 1
++ d 1
++ e 1
++ dddfc 1
++ efadfd 1
++ dffa 1
++ eb 1
++ ebcc 1
++ aa 1
++ cc 1
++ adca 1
++ adbb 1
++ cff 1
++ cdd 1
++ eeada 1
++ fbbe 1
++ bb 1
++ fc 1
++ ac 1
++ bee 1
++ bedb 1
++ afcfaf 1
++ bccc 1
++ ed 1
++ d 1
++ cda 1
++ fbbeda 1
++ a 1
++ ff 1
++ f 1
++ edd 1
++ fafecd 1
++ fdbcee 1
++ d 1
++ eadc 1
++ cfebfa 1
++ cddfbc 1
++ dfdbb 1
++ bfb 1
++ cc 1
++ bafa 1
++ d 1
++ bccbe 1
++ cdfe 1
++ acabdd 1
++ ac 1
++ aca 1
++ cd 1
++ da 1
++ ccfd 1
++ ddaac 1
++ acea 1
++ fbdf 1
++ dbbf 1
++ fed 1
++ cfef 1
++ aa 1
++ eaecf 1
++ e 1
++ ddaecb 1
++ b 1
++ fdab 1
++ d 1
++ af 1
++ bafdce 1
++ eda 1
++ cef 1
++ afd 1
++ b 1
++ deefd 1
++ e 1
++ dd 1
++ d 1
++ da 1
++ dccefc 1
++ c 1
++ aafbb 1
++ cda 1
++ eeefcf 1
++ dabd 1
++ eefadb 1
++ d 1
++ bdba 1
++ dae 1
++ aacc 1
++ c 1
++ df 1
++ cbf 1
++ fffaee 1
++ cd 1
++ ddfabb 1
++ bc 1
++ da 1
++ fbdf 1
++ ccbbb 1
++ becaa 1
++ dbed 1
++ ac 1
++ b 1
++ cfefc 1
++ afacb 1
++ bb 1
++ afeb 1
++ beea 1
++ dacdbe 1
++ ebdefb 1
++ fefa 1
++ abef 1
++ fabbeb 1
++ bb 1
++ cabc 1
++ cdbb 1
++ feace 1
++ ceafd 1
++ feabdf 1
++ ccc 1
++ ce 1
++ cfdcc 1
++ acc 1
++ ecbe 1
++ cbcfad 1
++ fdd 1
++ a 1
++ acccc 1
++ ceabea 1
++ bdb 1
++ cdff 1
++ dcd 1
++ eaa 1
++ eaeeb 1
++ b 1
++ cf 1
++ fae 1
++ dfbdb 1
++ cdbda 1
++ bac 1
++ cbbe 1
++ aad 1
++ f 1
++ ddcba 1
++ d 1
++ bbecb 1
++ bdafdb 1
++ eba 1
++ b 1
++ cfead 1
++ aeeafa 1
++ feaaeb 1
++ caec 1
++ d 1
++ fdcd 1
++ bfdc 1
++ ebdced 1
++ d 1
++ addfee 1
++ daea 1
++ db 1
++ efce 1
++ f 1
++ eeef 1
++ bfa 1
++ d 1
++ cc 1
++ e 1
++ bcbb 1
++ caeb 1
++ edeb 1
++ a 1
++ edad 1
++ e 1
++ dd 1
++ db 1
++ bcfabc 1
++ ce 1
++ d 1
++ dbcb 1
++ a 1
++ deae 1
++ f 1
++ dfbfea 1
++ ca 1
++ cfdb 1
++ acaacb 1
++ cebac 1
++ eabc 1
++ cfbced 1
++ f 1
++ a 1
++ fdb 1
++ ebbdfe 1
++ ecc 1
++ b 1
++ fdb 1
++ ad 1
++ ea 1
++ ce 1
++ edbdcd 1
++ eaf 1
++ a 1
++ cdc 1
++ fbef 1
++ e 1
++ bba 1
++ d 1
++ efaf 1
++ bc 1
++ fadd 1
++ df 1
++ fdb 1
++ fecce 1
++ bd 1
++ ea 1
++ beecfe 1
++ cfbfe 1
++ fabaf 1
++ deff 1
++ a 1
++ d 1
++ cdfecb 1
++ feccb 1
++ ff 1
++ efcc 1
++ faa 1
++ fba 1
++ ceaab 1
++ acb 1
++ ebffdf 1
++ abf 1
++ ec 1
++ c 1
++ b 1
++ ffdcdc 1
++ eea 1
++ ddbfdb 1
++ a 1
++ eb 1
++ fd 1
++ ef 1
++ fd 1
++ ca 1
++ acdc 1
++ dbcebf 1
++ cffbcf 1
++ bad 1
++ edcbef 1
++ bf 1
++ cff 1
++ ffdafd 1
++ cab 1
++ fcaad 1
++ caad 1
++ fcdcc 1
++ bbcabe 1
++ e 1
++ aafadd 1
++ bbf 1
++ decaa 1
++ ae 1
++ db 1
++ ee 1
++ daabfe 1
++ c 1
++ dfeea 1
++ abcdf 1
++ cae 1
++ defbc 1
++ facef 1
++ ebbbfa 1
++ dccf 1
++ fec 1
++ cb 1
++ ffaf 1
++ dcfdac 1
++ fbc 1
++ acacc 1
++ bef 1
++ aeeb 1
++ d 1
++ acbbe 1
++ fdefc 1
++ b 1
++ ebead 1
++ fbdba 1
++ f 1
++ aceadd 1
++ f 1
++ fca 1
++ eec 1
++ db 1
++ ddcdcf 1
++ cdb 1
++ dde 1
++ ebc 1
++ bfacb 1
++ abeb 1
++ bfad 1
++ a 1
++ ad 1
++ bfccd 1
++ bcafe 1
++ deeace 1
++ ebabf 1
++ ff 1
++ fab 1
++ f 1
++ ca 1
++ bbdefa 1
++ bec 1
++ cffb 1
++ aeef 1
++ bcc 1
++ c 1
++ b 1
++ eecf 1
++ bcfdbb 1
++ fcccbf 1
++ aeaa 1
++ dadd 1
++ c 1
++ debad 1
++ bad 1
++ baf 1
++ dcfc 1
++ dadd 1
++ ed 1
++ cce 1
++ fafdd 1
++ edcfdd 1
++ aaeda 1
++ af 1
++ dabf 1
++ bbfa 1
++ adbbd 1
++ dddae 1
++ ecccdb 1
++ cee 1
++ e 1
++ dd 1
++ d 1
++ ebfd 1
++ afd 1
++ cdca 1
++ cce 1
++ defaaa 1
++ bbf 1
++ cb 1
++ dafe 1
++ e 1
++ bf 1
++ bffefb 1
++ af 1
++ ee 1
++ afaefb 1
++ cedbad 1
++ ccdfe 1
++ c 1
++ ddd 1
++ ac 1
++ e 1
++ ee 1
++ c 1
++ bf 1
++ dcde 1
++ beac 1
++ ea 1
++ edef 1
++ cac 1
++ ff 1
++ fbee 1
++ fa 1
++ ce 1
++ bafbfb 1
++ cd 1
++ eaf 1
++ a 1
++ feecde 1
++ adeae 1
++ cdacc 1
++ bbbbeb 1
++ dedd 1
++ dbadd 1
++ cbfeb 1
++ cbbab 1
++ aab 1
++ beecbd 1
++ cfaefc 1
++ ccabef 1
++ aedf 1
++ ddfeae 1
++ eab 1
++ deecae 1
++ feedf 1
++ aba 1
++ efdba 1
++ f 1
++ e 1
++ d 1
++ bcffb 1
++ dd 1
++ cbbded 1
++ fe 1
++ dbacce 1
++ a 1
++ ade 1
++ eedffa 1
++ d 1
++ bc 1
++ daede 1
++ efcf 1
++ afabfb 1
++ cfbfcf 1
++ cafbc 1
++ fa 1
++ acbcab 1
++ fb 1
++ d 1
++ d 1
++ eacddf 1
++ ffa 1
++ bdeeb 1
++ eece 1
++ dadde 1
++ dcefaa 1
++ bddb 1
++ edcf 1
++ aa 1
++ cefa 1
++ d 1
++ eeddb 1
++ ffbd 1
++ cff 1
++ cb 1
++ caaabd 1
++ d 1
++ eeed 1
++ c 1
++ bbbaa 1
++ bac 1
++ e 1
++ afdca 1
++ affa 1
++ afe 1
++ cee 1
++ d 1
++ fdcb 1
++ addefe 1
++ caceb 1
++ df 1
++ be 1
++ d 1
++ cfcec 1
++ bc 1
++ e 1
++ ccbb 1
++ dcefa 1
++ abba 1
++ fed 1
++ ecc 1
++ ccc 1
++ ceaceb 1
++ cde 1
++ ccabbb 1
++ bf 1
++ ebbe 1
++ eefe 1
++ acba 1
++ da 1
++ acca 1
++ dbfea 1
++ bdccd 1
++ efdbd 1
++ ffaaa 1
++ ae 1
++ deffff 1
++ efbd 1
++ ca 1
++ acbdd 1
++ cddab 1
++ bfaaa 1
++ fac 1
++ becab 1
++ cb 1
++ bbec 1
++ ccad 1
++ ffd 1
++ fdfcb 1
++ edea 1
++ ebefbb 1
++ c 1
++ cfdf 1
++ bfca 1
++ beee 1
++ f 1
++ cd 1
++ cafb 1
++ ececfc 1
++ cdaa 1
++ fcfab 1
++ fdbe 1
++ bff 1
++ ef 1
++ dbf 1
++ ecfbed 1
++ cf 1
++ defcf 1
++ aeacd 1
++ cccff 1
++ ecca 1
++ abe 1
++ ab 1
++ f 1
++ dcaca 1
++ febcc 1
++ fe 1
++ cbccc 1
++ caca 1
++ bf 1
++ ed 1
++ acfee 1
++ cfede 1
++ bc 1
++ bf 1
++ ba 1
++ baea 1
++ db 1
++ febf 1
++ fdfa 1
++ bdbb 1
++ ccdfe 1
++ ffddd 1
++ dfda 1
++ bcbcf 1
++ bffac 1
++ bfbcca 1
++ fddce 1
++ abebaa 1
++ cbe 1
++ dd 1
++ ddbafa 1
++ fd 1
++ daaece 1
++ aafb 1
++ fdaef 1
++ ccedae 1
++ deca 1
++ bdffba 1
++ dabc 1
++ f 1
++ b 1
++ ebbe 1
++ df 1
++ bcaeca 1
++ bdba 1
++ bcef 1
++ ad 1
++ af 1
++ ded 1
++ ff 1
++ dabdec 1
++ adfbe 1
++ a 1
++ e 1
++ bfdada 1
++ ae 1
++ abb 1
++ ececea 1
++ eeddc 1
++ daa 1
++ bd 1
++ abc 1
++ be 1
++ ffde 1
++ fdc 1
++ daab 1
++ db 1
++ fbca 1
++ fc 1
++ ecaeeb 1
++ bead 1
++ dd 1
++ edde 1
++ efed 1
++ adeedd 1
++ d 1
++ eb 1
++ a 1
++ faee 1
++ cf 1
++ dcdafb 1
++ cedecf 1
++ dabeca 1
++ cdbca 1
++ dadbd 1
++ ccddf 1
++ faff 1
++ d 1
++ e 1
++ eaebd 1
++ a 1
++ eebe 1
++ a 1
++ ecbfea 1
++ d 1
++ eb 1
++ bbdded 1
++ fe 1
++ dcdabb 1
++ b 1
++ cd 1
++ f 1
++ bddabc 1
++ adadbd 1
++ ecca 1
++ ead 1
++ ecee 1
++ dbdcea 1
++ eaf 1
++ dfcda 1
++ fcff 1
++ bdf 1
++ bbbdfe 1
++ cadaa 1
++ ad 1
++ bcfc 1
++ ac 1
++ ef 1
++ fddee 1
++ acac 1
++ a 1
++ babc 1
++ fadfd 1
++ a 1
++ cca 1
++ af 1
++ bcbca 1
++ cc 1
++ cdbafb 1
++ cfa 1
++ ba 1
++ b 1
++ cbb 1
++ e 1
++ fadaa 1
++ cbb 1
++ eabb 1
++ e 1
++ defc 1
++ ddedc 1
++ dbba 1
++ caeebf 1
++ c 1
++ ed 1
++ cfaa 1
++ dcfa 1
++ ddafe 1
++ ed 1
++ bb 1
++ dacb 1
++ dae 1
++ cbdcf 1
++ dcfba 1
++ b 1
++ dbbe 1
++ a 1
++ deedfe 1
++ fadac 1
++ a 1
++ edbbcb 1
++ c 1
++ bde 1
++ deca 1
++ ebc 1
++ ffdc 1
++ faaedb 1
++ e 1
++ fcacb 1
++ ee 1
++ afcdd 1
++ dacc 1
++ dcf 1
++ aeab 1
++ dff 1
++ dffe 1
++ daec 1
++ f 1
++ bccec 1
++ fceac 1
++ f 1
++ caf 1
++ ddfafa 1
++ acc 1
++ b 1
++ c 1
++ de 1
++ bbadb 1
++ de 1
++ decd 1
++ d 1
++ a 1
++ acbd 1
++ fedf 1
++ ebcac 1
++ b 1
++ bfa 1
++ cdd 1
++ dadb 1
++ cc 1
++ f 1
++ abcffb 1
++ ffbeab 1
++ daae 1
++ bb 1
++ fddbf 1
++ bccfbd 1
++ fceefd 1
++ dda 1
++ de 1
++ efeacf 1
++ de 1
++ debcae 1
++ febbdd 1
++ baa 1
++ b 1
++ fdbbd 1
++ befd 1
++ acda 1
++ fef 1
++ dabaa 1
++ e 1
++ a 1
++ cdad 1
++ bfeecb 1
++ adcadc 1
++ aaa 1
++ fefada 1
++ eccfe 1
++ ab 1
++ cbecba 1
++ fbecc 1
++ abc 1
++ eafee 1
++ fabbf 1
++ accbbe 1
++ b 1
++ d 1
++ ffc 1
++ db 1
++ ca 1
++ bc 1
++ dfeea 1
++ eee 1
++ ffcde 1
++ bff 1
++ fbcba 1
++ fcdfe 1
++ fc 1
++ dcfc 1
++ df 1
++ ddbec 1
++ d 1
++ d 1
++ acd 1
++ bda 1
++ bf 1
++ babca 1
++ db 1
++ ff 1
++ adaee 1
++ cbfec 1
++ ed 1
++ fccbbd 1
++ dbe 1
++ c 1
++ abbecf 1
++ bdfa 1
++ b 1
++ afd 1
++ cfadad 1
++ eccce 1
++ aeedad 1
++ f 1
++ dfdef 1
++ ecaa 1
++ ac 1
++ b 1
++ c 1
++ aeaf 1
++ ebec 1
++ ecabb 1
++ dfeb 1
++ fa 1
++ dadf 1
++ f 1
++ a 1
++ ed 1
++ cea 1
++ aefa 1
++ ecbd 1
++ a 1
++ deab 1
++ becac 1
++ fbf 1
++ bba 1
++ bdbaa 1
++ affae 1
++ caa 1
++ db 1
++ fffada 1
++ fafdca 1
++ c 1
++ feeed 1
++ aefb 1
++ aec 1
++ dbad 1
++ bbbfa 1
++ bedbdc 1
++ bbbebf 1
++ af 1
++ ebccdd 1
++ fcef 1
++ ccebfa 1
++ cfd 1
++ aa 1
++ d 1
++ bdffef 1
++ faddaf 1
++ f 1
++ c 1
++ bbc 1
++ dfec 1
++ cdbcc 1
++ fff 1
++ fcdad 1
++ ddbd 1
++ dcfdda 1
++ c 1
++ ecee 1
++ aeb 1
++ decebc 1
++ ce 1
++ dbce 1
++ bffca 1
++ decbae 1
++ fe 1
++ acbed 1
++ ef 1
++ bbfbdb 1
++ da 1
++ da 1
++ fcdae 1
++ dca 1
++ efaf 1
++ cd 1
++ bedcb 1
++ bedcf 1
++ eddf 1
++ fb 1
++ cafef 1
++ eebbda 1
++ edeb 1
++ bef 1
++ fbbcb 1
++ baa 1
++ aa 1
++ adced 1
++ fd 1
++ eee 1
++ bddecc 1
++ dceebf 1
++ dfa 1
++ de 1
++ af 1
++ f 1
++ cdf 1
++ a 1
++ c 1
++ cedf 1
++ fedbba 1
++ aad 1
++ ccc 1
++ cb 1
++ cdf 1
++ d 1
++ cfface 1
++ acbbb 1
++ baaccc 1
++ ecedc 1
++ abece 1
++ bdddbb 1
++ cdcd 1
++ bda 1
++ fbfb 1
++ dffb 1
++ aefc 1
++ afac 1
++ c 1
++ cdee 1
++ fbedff 1
++ aae 1
++ fffd 1
++ efed 1
++ fdc 1
++ ad 1
++ ebbea 1
++ ffcbac 1
++ bfda 1
++ e 1
++ ddaf 1
++ b 1
++ bbd 1
++ eccc 1
++ cfc 1
++ eabcb 1
++ dcfff 1
++ cdc 1
++ e 1
++ bdf 1
++ bbf 1
++ bf 1
++ d 1
++ fb 1
++ f 1
++ fcde 1
++ aa 1
++ dcc 1
++ eccbee 1
++ b 1
++ caed 1
++ bfa 1
++ a 1
++ cddbde 1
++ eeed 1
++ ad 1
++ c 1
++ bcdbcf 1
++ caf 1
++ efae 1
++ e 1
++ babfcf 1
++ d 1
++ ecdb 1
++ feca 1
++ ea 1
++ cbdbcf 1
++ e 1
++ beebeb 1
++ acdcff 1
++ dbfd 1
++ bdcd 1
++ edfddd 1
++ c 1
++ cddddd 1
++ efdb 1
++ ebf 1
++ eb 1
++ ecf 1
++ dee 1
++ febeb 1
++ ccfda 1
++ bbd 1
++ fcbe 1
++ cadce 1
++ acfc 1
++ ede 1
++ aedf 1
++ dfd 1
++ beb 1
++ fdcf 1
++ facae 1
++ aac 1
++ ebd 1
++ dabdc 1
++ ee 1
++ def 1
++ b 1
++ ed 1
++ eddaa 1
++ aade 1
++ aadaca 1
++ dff 1
++ adce 1
++ cca 1
++ e 1
++ bebe 1
++ cffb 1
++ aceabe 1
++ ed 1
++ eeeab 1
++ d 1
++ ff 1
++ ace 1
++ fece 1
++ acac 1
++ bad 1
++ efbceb 1
++ cc 1
++ baf 1
++ c 1
++ db 1
++ ddcbaa 1
++ abec 1
++ abfad 1
++ cabcbb 1
++ bbecad 1
++ eefce 1
++ cefc 1
++ dea 1
++ bf 1
++ fa 1
++ babab 1
++ b 1
++ bfe 1
++ eaefac 1
++ dcffc 1
++ eb 1
++ eae 1
++ eabf 1
++ afffd 1
++ cbdbad 1
++ bfdec 1
++ cbfeb 1
++ ffbf 1
++ ffaf 1
++ cefb 1
++ ebaccf 1
++ e 1
++ cbffda 1
++ bece 1
++ cdfbeb 1
++ dbac 1
++ acd 1
++ abbd 1
++ a 1
++ c 1
++ ddaeb 1
++ acdfbc 1
++ cda 1
++ aaf 1
++ bf 1
++ c 1
++ b 1
++ b 1
++ fc 1
++ dadda 1
++ adca 1
++ fedbcd 1
++ d 1
++ edde 1
++ efd 1
++ af 1
++ acffe 1
++ caea 1
++ cdfefd 1
++ abadad 1
++ de 1
++ b 1
++ dcecf 1
++ abb 1
++ faebd 1
++ a 1
++ fa 1
++ fba 1
++ b 1
++ fbd 1
++ cd 1
++ fcadcb 1
++ bfdcdb 1
++ c 1
++ e 1
++ dadeb 1
++ baec 1
++ cfae 1
++ deeaae 1
++ ab 1
++ bda 1
++ fdda 1
++ cbebaa 1
++ cec 1
++ dddcd 1
++ ecbd 1
++ caeed 1
++ bcdcdb 1
++ da 1
++ fedc 1
++ affbad 1
++ bafe 1
++ bcaab 1
++ d 1
++ dd 1
++ fdd 1
++ faeca 1
++ cfdd 1
++ fcf 1
++ ea 1
++ cb 1
++ c 1
++ ced 1
++ daa 1
++ daeefb 1
++ edbfc 1
++ eb 1
++ fceea 1
++ ec 1
++ cdaa 1
++ fe 1
++ da 1
++ dedaf 1
++ a 1
++ ebbbdf 1
++ beeebe 1
++ beabaf 1
++ aed 1
++ fdcfd 1
++ bcaddf 1
++ f 1
++ cbfaa 1
++ feedbe 1
++ dcacd 1
++ f 1
++ fbbdcf 1
++ ceff 1
++ cfdb 1
++ fda 1
++ c 1
++ eea 1
++ fbcee 1
++ acdd 1
++ ffce 1
++ ccd 1
++ eaf 1
++ ebc 1
++ ddf 1
++ ebbc 1
++ fcf 1
++ f 1
++ dff 1
++ cbaede 1
++ ad 1
++ af 1
++ dcffb 1
++ abcced 1
++ bab 1
++ e 1
++ fc 1
++ abfa 1
++ afbcc 1
++ aadfa 1
++ badcce 1
++ ccfb 1
++ bfaace 1
++ adeaa 1
++ a 1
++ dfecf 1
++ ebfcc 1
++ dbaabd 1
++ f 1
++ fedaae 1
++ aecdc 1
++ e 1
++ dc 1
++ a 1
++ dfd 1
++ dedbc 1
++ ebfa 1
++ f 1
++ edabe 1
++ f 1
++ bcc 1
++ afd 1
++ abdedc 1
++ ae 1
++ d 1
++ aaafd 1
++ ebfbcf 1
++ efc 1
++ cc 1
++ bda 1
++ dfcfa 1
++ cedc 1
++ ab 1
++ afbceb 1
++ bdadd 1
++ eaa 1
++ ba 1
++ ba 1
++ decdeb 1
++ dbac 1
++ ed 1
++ fffacf 1
++ dad 1
++ afd 1
++ eeaea 1
++ fdaad 1
++ ffe 1
++ cdcafc 1
++ aae 1
++ adec 1
++ bcdffb 1
++ f 1
++ bffadc 1
++ e 1
++ aceaa 1
++ eba 1
++ eccfde 1
++ cfc 1
++ ed 1
++ d 1
++ cd 1
++ ecdaed 1
++ bc 1
++ b 1
++ eccbfa 1
++ bffa 1
++ aa 1
++ faae 1
++ abfffe 1
++ fddcb 1
++ edcceb 1
++ cbbcce 1
++ cce 1
++ da 1
++ adbeae 1
++ cedfbf 1
++ db 1
++ fceaca 1
++ d 1
++ ecf 1
++ fffbb 1
++ dfcbcf 1
++ f 1
++ eeddf 1
++ bf 1
++ bc 1
++ afb 1
++ efc 1
++ effd 1
++ adefdd 1
++ feee 1
++ aedfe 1
++ ddfaae 1
++ b 1
++ d 1
++ e 1
++ fbbe 1
++ cfc 1
++ be 1
++ faaffa 1
++ afa 1
++ beabc 1
++ ddddc 1
++ fdcfee 1
++ bdc 1
++ af 1
++ daebed 1
++ cfeba 1
++ cdbcbe 1
++ eaaaf 1
++ bfeee 1
++ ebfbeb 1
++ bfca 1
++ fddfe 1
++ bba 1
++ fae 1
++ f 1
++ d 1
++ ab 1
++ d 1
++ d 1
++ ecbec 1
++ daaccc 1
++ bbc 1
++ ba 1
++ eacdee 1
++ bcbfe 1
++ ad 1
++ daceb 1
++ ebafd 1
++ edeadb 1
++ ade 1
++ ff 1
++ eafbcb 1
++ edabbb 1
++ fcebfc 1
++ b 1
++ cbea 1
++ edb 1
++ bfb 1
++ eaabf 1
++ ce 1
++ f 1
++ ef 1
++ f 1
++ fafaff 1
++ da 1
++ d 1
++ dc 1
++ bcec 1
++ fd 1
++ e 1
++ f 1
++ fff 1
++ dabdf 1
++ c 1
++ e 1
++ be 1
++ dbe 1
++ dedb 1
++ bf 1
++ aff 1
++ fcaf 1
++ cccc 1
++ a 1
++ feaa 1
++ cdfae 1
++ a 1
++ faddfb 1
++ bbf 1
++ bffedf 1
++ cc 1
++ cafdda 1
++ eef 1
++ ed 1
++ deadd 1
++ cfcf 1
++ decf 1
++ a 1
++ efbcdb 1
++ baffd 1
++ bfced 1
++ eaedb 1
++ bbf 1
++ b 1
++ cfaccb 1
++ efebd 1
++ c 1
++ a 1
++ b 1
++ cbb 1
++ adfccd 1
++ fdad 1
++ d 1
++ cfc 1
++ a 1
++ eddd 1
++ ff 1
++ eabfb 1
++ f 1
++ dab 1
++ bd 1
++ efbdba 1
++ ec 1
++ afedf 1
++ f 1
++ bcfc 1
++ bd 1
++ acd 1
++ ff 1
++ fc 1
++ f 1
++ dfad 1
++ ceccdf 1
++ acdb 1
++ bb 1
++ ded 1
++ dc 1
++ d 1
++ dfac 1
++ bfff 1
++ fc 1
++ cabaad 1
++ bdaeeb 1
++ bbbeea 1
++ bbd 1
++ e 1
++ adc 1
++ dbadbb 1
++ c 1
++ bedce 1
++ ede 1
++ b 1
++ f 1
++ bee 1
++ eb 1
++ de 1
++ bad 1
++ eeff 1
++ ace 1
++ ebe 1
++ cec 1
++ daa 1
++ efafc 1
++ e 1
++ efe 1
++ dec 1
++ efea 1
++ ccbfe 1
++ cc 1
++ feb 1
++ dbda 1
++ fd 1
++ f 1
++ e 1
++ eaf 1
++ a 1
++ ccef 1
++ ecbafa 1
++ cbbdfa 1
++ dacd 1
++ cfebf 1
++ faf 1
++ fc 1
++ bddebb 1
++ dacaa 1
++ dbfb 1
++ aaab 1
++ ceefa 1
++ bddd 1
++ fc 1
++ e 1
++ aeea 1
++ bf 1
++ adefd 1
++ ddafb 1
++ accbd 1
++ ba 1
++ db 1
++ bf 1
++ cbfaba 1
++ abfb 1
++ fadef 1
++ e 1
++ b 1
++ bfaebf 1
++ acff 1
++ effbde 1
++ fbdde 1
++ ccddec 1
++ baf 1
++ dcb 1
++ a 1
++ d 1
++ fbdbf 1
++ ae 1
++ ddeef 1
++ fbafda 1
++ dcf 1
++ adddb 1
++ e 1
++ bcdba 1
++ db 1
++ fbbe 1
++ b 1
++ db 1
++ bbbdb 1
++ afdbb 1
++ abccab 1
++ bdca 1
++ ebffc 1
++ dbaef 1
++ adcdcc 1
++ dde 1
++ bead 1
++ ad 1
++ cccbfe 1
++ acff 1
++ abe 1
++ da 1
++ acadd 1
++ badfc 1
++ b 1
++ cbdfc 1
++ bbb 1
++ faab 1
++ adcab 1
++ eadcb 1
++ eccb 1
++ deb 1
++ abface 1
++ cdcba 1
++ bcbd 1
++ c 1
++ b 1
++ cbcded 1
++ d 1
++ ec 1
++ efcdf 1
++ dacaa 1
++ fbc 1
++ bcf 1
++ bff 1
++ bfbc 1
++ daaaa 1
++ ac 1
++ efdcbb 1
++ cbdca 1
++ dedbfc 1
++ f 1
++ bdfab 1
++ aebcb 1
++ fcedcf 1
++ cdeef 1
++ debbbe 1
++ ebc 1
++ f 1
++ e 1
++ df 1
++ cfcda 1
++ baadea 1
++ bcc 1
++ ead 1
++ b 1
++ aeec 1
++ bfdbdd 1
++ dad 1
++ ffaf 1
++ bffcbf 1
++ ceac 1
++ efad 1
++ cef 1
++ aaec 1
++ dfcae 1
++ fe 1
++ bbab 1
++ fdfda 1
++ fdfbcd 1
++ d 1
++ cf 1
++ ffc 1
++ af 1
++ cefa 1
++ bfdabb 1
++ aebb 1
++ ebafbd 1
++ aabcaa 1
++ afab 1
++ baffb 1
++ bf 1
++ cbaa 1
++ e 1
++ cfca 1
++ baabea 1
++ efbea 1
++ dffed 1
++ ee 1
++ eeefed 1
++ fb 1
++ d 1
++ cb 1
++ eafded 1
++ fab 1
++ daa 1
++ adccca 1
++ cdec 1
++ fc 1
++ d 1
++ eacade 1
++ b 1
++ adcac 1
++ bcc 1
++ bac 1
++ eed 1
++ fcd 1
++ ade 1
++ eb 1
++ ff 1
++ ab 1
++ bcfdeb 1
++ cdf 1
++ fabcce 1
++ dfded 1
++ dabcb 1
++ fcc 1
++ dffab 1
++ d 1
++ a 1
++ fcab 1
++ ba 1
++ dde 1
++ c 1
++ abffbc 1
++ ebf 1
++ aaf 1
++ ab 1
++ a 1
++ cfaabd 1
++ fbecf 1
++ ccacec 1
++ cdbc 1
++ c 1
++ b 1
++ ea 1
++ ee 1
++ df 1
++ bebd 1
++ efee 1
++ af 1
++ cce 1
++ ceced 1
++ ce 1
++ feacfb 1
++ ff 1
++ dca 1
++ c 1
++ fcbfee 1
++ da 1
++ efeb 1
++ bfd 1
++ eeeb 1
++ ff 1
++ dde 1
++ aae 1
++ faeaea 1
++ ecd 1
++ dcbaf 1
++ dedcd 1
++ fedaec 1
++ bfc 1
++ daefc 1
++ d 1
++ bd 1
++ b 1
++ e 1
++ faeaf 1
++ dbc 1
++ bebaad 1
++ ef 1
++ b 1
++ bced 1
++ fdf 1
++ afe 1
++ ca 1
++ bab 1
++ eaa 1
++ dbf 1
++ a 1
++ d 1
++ ab 1
++ afaff 1
++ c 1
++ fdeb 1
++ edbbb 1
++ bfbafb 1
++ daecf 1
++ fdcedd 1
++ dee 1
++ cad 1
++ bf 1
++ bc 1
++ bbb 1
++ cbcde 1
++ cbabdb 1
++ ef 1
++ abfcbf 1
++ ca 1
++ cfcb 1
++ dcea 1
++ bcebbf 1
++ cdb 1
++ cbdecc 1
++ caee 1
++ afbd 1
++ ddceeb 1
++ d 1
++ a 1
++ cadeb 1
++ a 1
++ ab 1
++ efbc 1
++ edbdac 1
++ e 1
++ f 1
++ cdd 1
++ f 1
++ bb 1
++ afd 1
++ aeddf 1
++ ddacee 1
++ cadbd 1
++ fedcfe 1
++ fcbab 1
++ ecd 1
++ ba 1
++ fcadf 1
++ dcee 1
++ bc 1
++ efe 1
++ c 1
++ bc 1
++ b 1
++ c 1
++ bbddae 1
++ bdf 1
++ fbbed 1
++ af 1
++ ed 1
++ de 1
++ decdb 1
++ ccf 1
++ a 1
++ bbeeee 1
++ cfaacf 1
++ fbabde 1
++ ffebcb 1
++ cbeedb 1
++ f 1
++ fccd 1
++ ebf 1
++ aeed 1
++ ccf 1
++ c 1
++ bf 1
++ bbe 1
++ ceb 1
++ ddfeed 1
++ beffba 1
++ dbfbde 1
++ aeeb 1
++ eea 1
++ bbbbaf 1
++ def 1
++ ca 1
++ bb 1
++ ecd 1
++ dd 1
++ bfcdba 1
++ acef 1
++ b 1
++ bfb 1
++ b 1
++ cbacdc 1
++ cabcf 1
++ cddae 1
++ acded 1
++ aaca 1
++ b 1
++ b 1
++ bcaffe 1
++ fdbfe 1
++ fcaac 1
++ cff 1
++ e 1
++ b 1
++ bfffa 1
++ ffedcb 1
++ dadbe 1
++ acec 1
++ bbffb 1
++ dbdaa 1
++ afb 1
++ cbe 1
++ ecbea 1
++ ecba 1
++ cf 1
++ a 1
++ cdafee 1
++ cb 1
++ eb 1
++ aff 1
++ fddc 1
++ abdfbc 1
++ bffd 1
++ ebbe 1
++ cd 1
++ bdcb 1
++ fad 1
++ a 1
++ efd 1
++ aaaa 1
++ ddbc 1
++ aeb 1
++ be 1
++ ead 1
++ dbaebb 1
++ aee 1
++ ccfaaa 1
++ ac 1
++ ed 1
++ dfd 1
++ eaebcf 1
++ baaccc 1
++ feefec 1
++ ecdad 1
++ dcbda 1
++ fcbcfb 1
++ d 1
++ dfca 1
++ efaad 1
++ cedfcb 1
++ dcadba 1
++ cdd 1
++ b 1
++ deedc 1
++ ada 1
++ aa 1
++ b 1
++ acde 1
++ bfefb 1
++ cdebb 1
++ a 1
++ b 1
++ a 1
++ b 1
++ bfffbb 1
++ d 1
++ cad 1
++ ca 1
++ e 1
++ d 1
++ c 1
++ aadaad 1
++ c 1
++ ffa 1
++ afbc 1
++ da 1
++ ccc 1
++ eca 1
++ cffcc 1
++ ddbd 1
++ eacbb 1
++ cd 1
++ dde 1
++ dacbac 1
++ dfcffd 1
++ c 1
++ badcc 1
++ bbd 1
++ daffe 1
++ d 1
++ feecf 1
++ feca 1
++ cfed 1
++ e 1
++ affd 1
++ ac 1
++ a 1
++ edcdf 1
++ a 1
++ bdbbd 1
++ daaee 1
++ cdefae 1
++ acfebb 1
++ eaccf 1
++ dacf 1
++ afc 1
++ cbefe 1
++ dcdc 1
++ cafbd 1
++ cfc 1
++ baddff 1
++ cf 1
++ c 1
++ eb 1
++ addd 1
++ bddffa 1
++ bebedf 1
++ aecafb 1
++ b 1
++ c 1
++ dc 1
++ adbab 1
++ dadcf 1
++ bbcbaa 1
++ caad 1
++ cefbf 1
++ de 1
++ eeeabe 1
++ bb 1
++ c 1
++ abc 1
++ dcddfc 1
++ bbefab 1
++ dffb 1
++ a 1
++ ffea 1
++ ee 1
++ ed 1
++ abbeb 1
++ dadcaf 1
++ cccdaa 1
++ afdefc 1
++ aae 1
++ ffd 1
++ eaae 1
++ dcf 1
++ c 1
++ ba 1
++ bda 1
++ ae 1
++ a 1
++ e 1
++ eaebbf 1
++ afbc 1
++ c 1
++ fe 1
++ a 1
++ aff 1
++ a 1
++ eecfa 1
++ be 1
++ bace 1
++ aeaea 1
++ dcfbfa 1
++ cadada 1
++ ca 1
++ bfe 1
++ dab 1
++ effddc 1
++ ffecf 1
++ fead 1
++ ae 1
++ bf 1
++ edf 1
++ beeadb 1
++ abff 1
++ d 1
++ e 1
++ d 1
++ b 1
++ fbbaa 1
++ a 1
++ bdf 1
++ bba 1
++ abebb 1
++ aec 1
++ fdc 1
++ bbdcf 1
++ afebd 1
++ cedcd 1
++ cfddf 1
++ fffe 1
++ bce 1
++ e 1
++ fcfde 1
++ a 1
++ aca 1
++ dc 1
++ bfea 1
++ deaa 1
++ a 1
++ c 1
++ e 1
++ ea 1
++ bdebf 1
++ bdef 1
++ fadd 1
++ aecee 1
++ efdf 1
++ cdca 1
++ fddca 1
++ ecb 1
++ bf 1
++ cecaa 1
++ db 1
++ cdcdfd 1
++ afcbcd 1
++ fb 1
++ ea 1
++ e 1
++ cafa 1
++ edacd 1
++ cb 1
++ a 1
++ efffa 1
++ edb 1
++ bfdd 1
++ dda 1
++ cefae 1
++ bb 1
++ f 1
++ ecebbe 1
++ eb 1
++ b 1
++ ad 1
++ caa 1
++ eaf 1
++ ebd 1
++ adaf 1
++ cefcaa 1
++ abfff 1
++ bbd 1
++ cfdfff 1
++ a 1
++ fbd 1
++ fdaef 1
++ cdddbc 1
++ b 1
++ cc 1
++ cacbdc 1
++ eccddb 1
++ bfe 1
++ ebabc 1
++ bd 1
++ b 1
++ dafb 1
++ e 1
++ cbcde 1
++ e 1
++ adcfcb 1
++ a 1
++ c 1
++ adfbaa 1
++ fbfdaa 1
++ cdba 1
++ ef 1
++ aeff 1
++ fee 1
++ ecbda 1
++ cad 1
++ bd 1
++ eecdcc 1
++ bf 1
++ dcf 1
++ fdcbfc 1
++ ccc 1
++ cac 1
++ bba 1
++ ceec 1
++ ffdb 1
++ daeacd 1
++ edeba 1
++ be 1
++ dd 1
++ c 1
++ ae 1
++ cbcfdd 1
++ acaee 1
++ cb 1
++ badabb 1
++ dcfdba 1
++ aaebab 1
++ cbe 1
++ abea 1
++ bfc 1
++ fbdee 1
++ c 1
++ baeaad 1
++ aebdae 1
++ edacd 1
++ cfa 1
++ eecbee 1
++ d 1
++ fdccc 1
++ ec 1
++ cea 1
++ babec 1
++ bbaf 1
++ cebefe 1
++ c 1
++ dcc 1
++ aee 1
++ ccbd 1
++ a 1
++ bbacce 1
++ ccabbc 1
++ de 1
++ dbe 1
++ dafac 1
++ bbdbc 1
++ bcefb 1
++ af 1
++ bbb 1
++ acaf 1
++ ccffa 1
++ ecafda 1
++ ccca 1
++ dacd 1
++ cc 1
++ ceb 1
++ ddfcba 1
++ dcacfe 1
++ fbffcc 1
++ ddffab 1
++ ec 1
++ fedfd 1
++ fafd 1
++ cbf 1
++ c 1
++ fdffad 1
++ fbfed 1
++ c 1
++ cdcf 1
++ ff 1
++ cffce 1
++ cdefbb 1
++ cfcdda 1
++ b 1
++ b 1
++ eead 1
++ ff 1
++ ccaab 1
++ c 1
++ adddf 1
++ aaee 1
++ f 1
++ cabeac 1
++ dbbfcf 1
++ baff 1
++ a 1
++ dd 1
++ bdaac 1
++ fcde 1
++ b 1
++ d 1
++ ffb 1
++ cc 1
++ ccaa 1
++ b 1
++ eddfb 1
++ beab 1
++ efecda 1
++ a 1
++ fccafe 1
++ fc 1
++ b 1
++ c 1
++ edcdcb 1
++ ffeeab 1
++ efedc 1
++ e 1
++ cd 1
++ ededf 1
++ bb 1
++ edcd 1
++ aaa 1
++ f 1
++ efbfbb 1
++ adec 1
++ cacfbd 1
++ d 1
++ b 1
++ bcfbcd 1
++ ff 1
++ e 1
++ bfafaf 1
++ af 1
++ acb 1
++ bec 1
++ cde 1
++ ff 1
++ acce 1
++ ff 1
++ acfdd 1
++ adbc 1
++ dddfef 1
++ afaf 1
++ eae 1
++ bcf 1
++ abcded 1
++ cfdb 1
++ f 1
++ ada 1
++ df 1
++ bb 1
++ bdfcfe 1
++ ffaabb 1
++ de 1
++ cfcd 1
++ ddea 1
++ dbb 1
++ a 1
++ faa 1
++ adae 1
++ bfddc 1
++ d 1
++ ca 1
++ fda 1
++ fbdeb 1
++ beebf 1
++ cfe 1
++ e 1
++ cbecd 1
++ ddbabf 1
++ eae 1
++ fccd 1
++ bafdf 1
++ cbfe 1
++ de 1
++ abbfa 1
++ c 1
++ f 1
++ e 1
++ d 1
++ cebde 1
++ a 1
++ bc 1
++ faea 1
++ afcf 1
++ caf 1
++ fd 1
++ fbefff 1
++ eda 1
++ edadbc 1
++ ecb 1
++ cd 1
++ ac 1
++ dea 1
++ f 1
++ fedba 1
++ b 1
++ c 1
++ eec 1
++ ae 1
++ bd 1
++ cfbf 1
++ edfeab 1
++ eccf 1
++ c 1
++ debf 1
++ cfdee 1
++ f 1
++ d 1
++ dddeac 1
++ adbca 1
++ b 1
++ bce 1
++ b 1
++ baad 1
++ aceeb 1
++ f 1
++ edfd 1
++ ce 1
++ acd 1
++ bff 1
++ ac 1
++ eaf 1
++ e 1
++ e 1
++ f 1
++ fcb 1
++ fe 1
++ c 1
++ c 1
++ afd 1
++ ec 1
++ ccf 1
++ c 1
++ aac 1
++ bcfe 1
++ adece 1
++ aaeae 1
++ bcbcdb 1
++ ddbcce 1
++ bacfcb 1
++ ed 1
++ acdfcb 1
++ cceef 1
++ dabecd 1
++ fea 1
++ bbd 1
++ deb 1
++ addbe 1
++ dadbdd 1
++ eeaef 1
++ ed 1
++ eeafbe 1
++ accb 1
++ dace 1
++ efabb 1
++ dbaac 1
++ dcafa 1
++ ecbdcd 1
++ fecac 1
++ ebfdab 1
++ fbeca 1
++ cacaeb 1
++ fcdc 1
++ debba 1
++ f 1
++ fcfaee 1
++ ceffee 1
++ dc 1
++ e 1
++ cbbbcf 1
++ d 1
++ accd 1
++ fbe 1
++ aa 1
++ edcaf 1
++ adbfad 1
++ ffbdb 1
++ bbece 1
++ dc 1
++ b 1
++ ef 1
++ fdbcd 1
++ eadbea 1
++ ddffc 1
++ be 1
++ cfdd 1
++ e 1
++ ebebcb 1
++ ffbc 1
++ e 1
++ c 1
++ dc 1
++ dd 1
++ bad 1
++ d 1
++ faddb 1
++ cbd 1
++ fcfb 1
++ d 1
++ acd 1
++ dbd 1
++ adfbf 1
++ adab 1
++ add 1
++ bade 1
++ bfc 1
++ bdc 1
++ cafd 1
++ ec 1
++ f 1
++ ddb 1
++ eeff 1
++ fbfb 1
++ e 1
++ ca 1
++ ddbdcc 1
++ eedda 1
++ afccc 1
++ cf 1
++ d 1
++ adbb 1
++ febae 1
++ caa 1
++ fbfda 1
++ d 1
++ cfd 1
++ cdd 1
++ bffd 1
++ efcf 1
++ cf 1
++ ccf 1
++ bacfd 1
++ aafcb 1
++ e 1
++ cdbde 1
++ cebea 1
++ eaadc 1
++ def 1
++ cfdbac 1
++ ebc 1
++ af 1
++ efdfdd 1
++ fdcae 1
++ ecc 1
++ fb 1
++ eff 1
++ deaee 1
++ bdfeaa 1
++ cebdef 1
++ abbbeb 1
++ beb 1
++ cfeedd 1
++ e 1
++ c 1
++ fafb 1
++ cf 1
++ aadbf 1
++ a 1
++ bfaeff 1
++ dde 1
++ fc 1
++ cfeca 1
++ cafc 1
++ ccbaa 1
++ bd 1
++ ecfaea 1
++ fff 1
++ cefc 1
++ acbf 1
++ fafe 1
++ d 1
++ cbda 1
++ ae 1
++ abddee 1
++ aedd 1
++ aecdb 1
++ aec 1
++ bccc 1
++ e 1
++ d 1
++ ee 1
++ cabda 1
++ bebfcb 1
++ e 1
++ aceb 1
++ ae 1
++ fac 1
++ bbe 1
++ befce 1
++ dcb 1
++ d 1
++ abee 1
++ ce 1
++ bce 1
++ c 1
++ cbeedf 1
++ cbe 1
++ dfc 1
++ cf 1
++ dbe 1
++ ecc 1
++ cbdcef 1
++ cbbfd 1
++ abc 1
++ ae 1
++ abdb 1
++ fdba 1
++ e 1
++ fbf 1
++ ebdf 1
++ c 1
++ cab 1
++ cabd 1
++ daaaf 1
++ ffbd 1
++ a 1
++ fbcee 1
++ eabfba 1
++ beb 1
++ dccdc 1
++ ef 1
++ aafeec 1
++ e 1
++ cdabc 1
++ abfbdf 1
++ abfb 1
++ eeb 1
++ ecaa 1
++ aebeb 1
++ fcf 1
++ aea 1
++ bf 1
++ cab 1
++ af 1
++ abbcfa 1
++ aedcd 1
++ b 1
++ fcfdce 1
++ bac 1
++ feafbe 1
++ badbc 1
++ faad 1
++ f 1
++ d 1
++ ee 1
++ aacf 1
++ aefa 1
++ ae 1
++ bcdcce 1
++ a 1
++ bec 1
++ bbbfdc 1
++ fbbfd 1
++ d 1
++ efcaff 1
++ c 1
++ eac 1
++ feda 1
++ eebec 1
++ d 1
++ eb 1
++ badbcb 1
++ aaeac 1
++ caefbe 1
++ daec 1
++ c 1
++ faee 1
++ cab 1
++ ffbd 1
++ babbe 1
++ adbbac 1
++ aaaeaa 1
++ e 1
++ d 1
++ bec 1
++ ffbedc 1
++ bbecad 1
++ cdbd 1
++ ddbe 1
++ cfcbde 1
++ c 1
++ fe 1
++ fbeedb 1
++ bcfebc 1
++ fdadba 1
++ dcd 1
++ afaabd 1
++ caeabb 1
++ babcba 1
++ eeaddc 1
++ ffdfc 1
++ fbd 1
++ cdfa 1
++ afd 1
++ a 1
++ babec 1
++ bfc 1
++ c 1
++ b 1
++ abf 1
++ fae 1
++ f 1
++ dfdee 1
++ cfbc 1
++ be 1
++ fa 1
++ baedba 1
++ bd 1
++ fd 1
++ ba 1
++ cfaff 1
++ ebffd 1
++ c 1
++ deccf 1
++ ca 1
++ faf 1
++ f 1
++ bbaec 1
++ babdff 1
++ ebcbd 1
++ bbed 1
++ fafcbe 1
++ aa 1
++ ea 1
++ faaadd 1
++ fddb 1
++ a 1
++ bde 1
++ ac 1
++ cdbdb 1
++ ddfcbf 1
++ f 1
++ c 1
++ afa 1
++ fabfbd 1
++ baceb 1
++ fbca 1
++ fcfeb 1
++ ddfd 1
++ f 1
++ deb 1
++ dfe 1
++ dbbece 1
++ dfccff 1
++ eccfcf 1
++ ffbbad 1
++ daca 1
++ bdbdac 1
++ cfa 1
++ e 1
++ ceccd 1
++ acafac 1
++ ecc 1
++ bdfab 1
++ d 1
++ ac 1
++ aeebce 1
++ ddbd 1
++ bdadb 1
++ aeb 1
++ bb 1
++ bec 1
++ e 1
++ ac 1
++ bcbd 1
++ decbfa 1
++ bf 1
++ fb 1
++ adb 1
++ ca 1
++ cceb 1
++ aaff 1
++ fcaf 1
++ ddce 1
++ bdcb 1
++ fdd 1
++ bac 1
++ cdaa 1
++ eafbc 1
++ aedcaf 1
++ cbfb 1
++ deaf 1
++ efbe 1
++ fffb 1
++ ecfcbd 1
++ deca 1
++ bddca 1
++ cfd 1
++ debac 1
++ d 1
++ df 1
++ abd 1
++ eeafc 1
++ eff 1
++ af 1
++ dd 1
++ a 1
++ feffbb 1
++ b 1
++ aaec 1
++ ccae 1
++ ebc 1
++ bfbfcf 1
++ aceffd 1
++ fcfdb 1
++ eede 1
++ bbadb 1
++ c 1
++ f 1
++ bc 1
++ fedede 1
++ af 1
++ b 1
++ e 1
++ ebeabd 1
++ c 1
++ eecde 1
++ dd 1
++ f 1
++ dccea 1
++ ccfafd 1
++ d 1
++ fe 1
++ fca 1
++ fcfe 1
++ cffacf 1
++ ea 1
++ a 1
++ a 1
++ fbdbdc 1
++ dbad 1
++ dfc 1
++ dc 1
++ a 1
++ adce 1
++ cd 1
++ ac 1
++ afedfb 1
++ afbac 1
++ acadae 1
++ bbadd 1
++ a 1
++ bab 1
++ dd 1
++ cda 1
++ cfb 1
++ cbfa 1
++ dea 1
++ aaadf 1
++ fadff 1
++ a 1
++ ddfdac 1
++ dfead 1
++ d 1
++ bac 1
++ edeaac 1
++ dbee 1
++ b 1
++ de 1
++ abadfa 1
++ f 1
++ aea 1
++ eed 1
++ e 1
++ dcbea 1
++ dffa 1
++ ceed 1
++ bbabda 1
++ bbbfcc 1
++ adc 1
++ b 1
++ d 1
++ fad 1
++ d 1
++ dafebd 1
++ dbbe 1
++ ccd 1
++ cdf 1
++ bfedb 1
++ dcba 1
++ eeb 1
++ ee 1
++ bdfda 1
++ d 1
++ af 1
++ ade 1
++ fbea 1
++ fcd 1
++ ef 1
++ f 1
++ cecf 1
++ ad 1
++ de 1
++ bba 1
++ ddcef 1
++ aee 1
++ dd 1
++ dc 1
++ def 1
++ afef 1
++ d 1
++ fcfcfa 1
++ daabe 1
++ baacda 1
++ bfb 1
++ dea 1
++ f 1
++ ac 1
++ dece 1
++ ded 1
++ aaeaae 1
++ eab 1
++ cd 1
++ abfdd 1
++ aaae 1
++ efaa 1
++ dfa 1
++ de 1
++ dcee 1
++ afaab 1
++ ecaccb 1
++ d 1
++ fcefdb 1
++ debace 1
++ eaeca 1
++ befd 1
++ bdffb 1
++ dbfc 1
++ aabcb 1
++ ede 1
++ dd 1
++ ceea 1
++ fcec 1
++ bbd 1
++ ccbba 1
++ aceafa 1
++ ababde 1
++ bfce 1
++ ca 1
++ ebb 1
++ bafbd 1
++ dbecf 1
++ ab 1
++ bebcaa 1
++ cbfac 1
++ bdbc 1
++ fd 1
++ badfb 1
++ fbee 1
++ aafe 1
++ caafa 1
++ a 1
++ dffcec 1
++ d 1
++ db 1
++ e 1
++ b 1
++ c 1
++ bca 1
++ baeffc 1
++ faaefc 1
++ aa 1
++ fbffe 1
++ aeab 1
++ abdfbb 1
++ abbdb 1
++ fbfabd 1
++ efcd 1
++ edbe 1
++ fedce 1
++ bacaa 1
++ cfdb 1
++ baae 1
++ dfbad 1
++ aff 1
++ bcfdfe 1
++ fec 1
++ ef 1
++ fcdfb 1
++ bef 1
++ dcd 1
++ faaa 1
++ d 1
++ fbe 1
++ face 1
++ ebeb 1
++ fdabcb 1
++ ceffe 1
++ aeaa 1
++ fed 1
++ cdff 1
++ ab 1
++ fee 1
++ aefcf 1
++ ae 1
++ dcbccb 1
++ accafb 1
++ aafbf 1
++ fda 1
++ cccd 1
++ f 1
++ c 1
++ ac 1
++ fbcce 1
++ fdbe 1
++ efba 1
++ eaffb 1
++ a 1
++ ff 1
++ ad 1
++ ecdf 1
++ bca 1
++ dea 1
++ db 1
++ f 1
++ aeaf 1
++ bfdea 1
++ bcabf 1
++ cefcac 1
++ e 1
++ bfa 1
++ b 1
++ e 1
++ eb 1
++ d 1
++ cdabf 1
++ dcedac 1
++ bedfee 1
++ eecd 1
++ bbd 1
++ eac 1
++ aeddff 1
++ cec 1
++ fe 1
++ cdcdf 1
++ d 1
++ a 1
++ fcfbcb 1
++ afceef 1
++ adafa 1
++ dbfdc 1
++ babc 1
++ bccccd 1
++ cb 1
++ ed 1
++ ac 1
++ ebb 1
++ dc 1
++ e 1
++ bac 1
++ afec 1
++ ee 1
++ eecf 1
++ febf 1
++ afabaa 1
++ ecfedc 1
++ aeecc 1
++ deb 1
++ ecca 1
++ af 1
++ fd 1
++ f 1
++ eb 1
++ dabdc 1
++ bf 1
++ bb 1
++ aaf 1
++ aaa 1
++ a 1
++ bdbaa 1
++ cbff 1
++ ecadbf 1
++ cefc 1
++ dcdb 1
++ dbbd 1
++ abc 1
++ bdaa 1
++ ea 1
++ cf 1
++ d 1
++ ec 1
++ fde 1
++ efed 1
++ f 1
++ fefafb 1
++ dc 1
++ bdfabc 1
++ ddc 1
++ aeed 1
++ aacaa 1
++ cdaceb 1
++ aefbcf 1
++ efa 1
++ bbeefb 1
++ f 1
++ ad 1
++ aadacb 1
++ fadebf 1
++ ecb 1
++ bbd 1
++ fcedfa 1
++ dddd 1
++ bdaaa 1
++ c 1
++ fbbdda 1
++ dbcaec 1
++ bcdffa 1
++ a 1
++ cdda 1
++ bcae 1
++ fcd 1
++ f 1
++ b 1
++ b 1
++ c 1
++ bcbef 1
++ dfcdad 1
++ ccaa 1
++ aa 1
++ da 1
++ e 1
++ adfbff 1
++ abbd 1
++ eabfb 1
++ fedf 1
++ bfee 1
++ ecdd 1
++ aecd 1
++ afaebf 1
++ dcd 1
++ f 1
++ beccca 1
++ d 1
++ baec 1
++ afcfdb 1
++ bdbde 1
++ fe 1
++ e 1
++ cbdc 1
++ daacee 1
++ decacf 1
++ efcdce 1
++ baa 1
++ dcdaf 1
++ c 1
++ bebdbf 1
++ d 1
++ abccad 1
++ abbacb 1
++ dbbee 1
++ edaadc 1
++ ccd 1
++ ccbece 1
++ da 1
++ b 1
++ f 1
++ deefdd 1
++ eceb 1
++ edefc 1
++ ceaca 1
++ dafeac 1
++ ea 1
++ bdbf 1
++ bbd 1
++ ffbc 1
++ debdfc 1
++ ccf 1
++ bbadfe 1
++ ddbdc 1
++ eff 1
++ ec 1
++ be 1
++ cde 1
++ efb 1
++ aabb 1
++ dfcabd 1
++ d 1
++ f 1
++ bb 1
++ cabf 1
++ dde 1
++ af 1
++ afd 1
++ fb 1
++ ffabab 1
++ da 1
++ fdf 1
++ dccade 1
++ eebebe 1
++ eddcd 1
++ dd 1
++ e 1
++ bedcd 1
++ ffdd 1
++ fafd 1
++ dd 1
++ ffbab 1
++ bed 1
++ a 1
++ ffd 1
++ aedeba 1
++ ffecab 1
++ cfdc 1
++ cefbad 1
++ acedff 1
++ cdb 1
++ caae 1
++ ad 1
++ bcfdc 1
++ ffb 1
++ cadc 1
++ bbad 1
++ befbd 1
++ fedcae 1
++ affafc 1
++ ce 1
++ aecffc 1
++ bde 1
++ cbdbd 1
++ eebbcb 1
++ ceade 1
++ cca 1
++ bddb 1
++ fabb 1
++ dddcfb 1
++ edec 1
++ aaaf 1
++ a 1
++ ab 1
++ bf 1
++ eea 1
++ fabab 1
++ faab 1
++ dded 1
++ ca 1
++ ac 1
++ cdfbdd 1
++ ebce 1
++ b 1
++ dafcaa 1
++ dced 1
++ fcefc 1
++ a 1
++ fdccbc 1
++ daea 1
++ cdecb 1
++ ed 1
++ fbcbab 1
++ eb 1
++ e 1
++ becb 1
++ eb 1
++ cfae 1
++ afce 1
++ ab 1
++ c 1
++ eeed 1
++ ffea 1
++ fbdd 1
++ afa 1
++ bbfbe 1
++ ae 1
++ eead 1
++ cee 1
++ bafcfe 1
++ afeedc 1
++ efeabe 1
++ cdb 1
++ e 1
++ ca 1
++ cbef 1
++ dcde 1
++ bccbfa 1
++ ef 1
++ a 1
++ cd 1
++ cfc 1
++ ffc 1
++ dacfa 1
++ bfcb 1
++ da 1
++ ceecfa 1
++ aaeec 1
++ bcfadf 1
++ afd 1
++ ef 1
++ f 1
++ b 1
++ ddbf 1
++ b 1
++ fcabc 1
++ cedc 1
++ c 1
++ aaf 1
++ eca 1
++ dff 1
++ d 1
++ fbabe 1
++ a 1
++ cdafac 1
++ dddbaf 1
++ defadc 1
++ e 1
++ da 1
++ fcffaf 1
++ acd 1
++ f 1
++ ddfca 1
++ fea 1
++ cadaba 1
++ edbbc 1
++ bdfbed 1
++ cf 1
++ fbefe 1
++ fdda 1
++ dfcce 1
++ b 1
++ caefda 1
++ efdd 1
++ acfa 1
++ a 1
++ bdbf 1
++ bc 1
++ dc 1
++ a 1
++ edc 1
++ bddafb 1
++ fbaf 1
++ bbd 1
++ cddbd 1
++ cfc 1
++ feeb 1
++ fdbf 1
++ aaf 1
++ af 1
++ befe 1
++ c 1
++ cdccac 1
++ fbbfca 1
++ ddc 1
++ dbde 1
++ edadf 1
++ df 1
++ af 1
++ abbe 1
++ c 1
++ ddde 1
++ d 1
++ c 1
++ daf 1
++ bf 1
++ baaa 1
++ bddfee 1
++ deee 1
++ fcecaa 1
++ decd 1
++ baea 1
++ cfffa 1
++ ccef 1
++ bb 1
++ adcbe 1
++ c 1
++ eeacde 1
++ bdbfa 1
++ fbaae 1
++ ffcd 1
++ aecc 1
++ efbce 1
++ eaff 1
++ ee 1
++ d 1
++ bbc 1
++ dbcfea 1
++ acdf 1
++ ba 1
++ fb 1
++ dadffb 1
++ abafde 1
++ eaa 1
++ eb 1
++ bf 1
++ aaefd 1
++ daeafb 1
++ cbbbec 1
++ ffdfec 1
++ d 1
++ dc 1
++ baeceb 1
++ afab 1
++ baecee 1
++ bd 1
++ abe 1
++ fdabcc 1
++ bebafb 1
++ e 1
++ d 1
++ abbdfa 1
++ bcdcb 1
++ f 1
++ aabae 1
++ d 1
++ acfa 1
++ dddec 1
++ facdb 1
++ abeabc 1
++ fbfbbc 1
++ adcebf 1
++ dbc 1
++ aaccfb 1
++ ffb 1
++ f 1
++ dbbda 1
++ cefcd 1
++ bdbbf 1
++ be 1
++ ddce 1
++ bda 1
++ b 1
++ fcf 1
++ ebcbd 1
++ accbba 1
++ d 1
++ befda 1
++ e 1
++ adcc 1
++ f 1
++ cb 1
++ d 1
++ bcdc 1
++ cdbd 1
++ febcc 1
++ ce 1
++ bffd 1
++ cdaeb 1
++ bdec 1
++ feaa 1
++ dd 1
++ efafa 1
++ aba 1
++ c 1
++ cdcef 1
++ faabd 1
++ eddfea 1
++ cdba 1
++ ca 1
++ ced 1
++ faedd 1
++ bda 1
++ ade 1
++ aea 1
++ fbafb 1
++ bf 1
++ bed 1
++ ddbe 1
++ cfccab 1
++ e 1
++ eabb 1
++ c 1
++ dd 1
++ c 1
+! Save ./save.txt
+- a
+- bceca
+- fecad
+- cd
+- ffb
+- dcf
+- cfcbde
+- cdcc
+- faceee
+- cfd
+- fcceed
+- b
+- aeaf
+- d
+- aeb
+- fdbbbe
+- cff
+- fcc
+- dffa
+- badfd
+- ccdfbd
+- ababe
+- ab
+- ac
+- cbcabb
+- aaba
+- dbccd
+- acd
+- bfd
+- fd
+- c
+- edf
+- aecfaf
+- ccd
+- badcdc
+- dfaac
+- edffcc
+- cefcac
+- a
+- cad
+- faccc
+- dfddc
+- e
+- efe
+- eeefd
+- f
+- bdcb
+- dcdec
+- ca
+- adb
+- dcd
+- dbcc
+- fee
+- ae
+- bead
+- b
+- f
+- fbff
+- bcc
+- ea
+- be
+- d
+- bcacbf
+- baee
+- dbbd
+- a
+- cdfbb
+- bdc
+- eded
+- dbccb
+- b
+- babd
+- c
+- dfeb
+- e
+- dacba
+- fc
+- efe
+- fdfba
+- dbc
+- b
+- aace
+- eba
+- aa
+- ac
+- eeefbd
+- ad
+- baaa
+- cfe
+- b
+- f
+- ad
+- cacdb
+- ab
+- aaae
+- efaf
+- cc
+- cd
+- b
+- fb
+- faced
+- cedc
+- f
+- fd
+- caae
+- b
+- aeabaa
+- fdb
+- cfab
+- dba
+- cadbd
+- ea
+- bbc
+- da
+- eefbf
+- fbfbbc
+- dcfba
+- cdebb
+- afad
+- eab
+- ead
+- de
+- acc
+- ec
+- ea
+- dd
+- fa
+- abe
+- ba
+- fddc
+- abbf
+- cad
+- dbafc
+- aadaa
+- aedde
+- c
+- cfface
+- caead
+- afeedc
+- cebd
+- d
+- baffb
+- dffaae
+- af
+- facdb
+- bbef
+- efd
+- b
+- cfffa
+- d
+- fc
+- ca
+- ebab
+- eb
+- deecec
+- fcf
+- bcac
+- fdad
+- f
+- bdeca
+- dfba
+- bffca
+- eb
+- eedf
+- fadca
+- fcbfc
+- dfca
+- b
+- fccd
+- ebbae
+- caa
+- a
+- ed
+- de
+- caaafb
+- c
+- cadcf
+- e
+- ac
+- fcdcad
+- eb
+- d
+- cdbafb
+- bbcbaa
+- eafb
+- c
+- feb
+- e
+- adafd
+- ecbd
+- d
+- abdfc
+- bbe
+- a
+- f
+- bcfdfe
+- eaeaaf
+- bfda
+- fbcbbc
+- db
+- bfced
+- e
+- dfdaf
+- ddcb
+- ecfcfd
+- cd
+- afa
+- acdfdf
+- ee
+- bad
+- af
+- adccbe
+- babcd
+- cd
+- edacbd
+- bfaea
+- bfecb
+- f
+- fcec
+- dcdbcf
+- f
+- aaaf
+- bdaaa
+- bfdada
+- b
+- e
+- dabaaf
+- febfcc
+- e
+- dedfbc
+- fdbeaa
+- efacf
+- dcdac
+- adde
+- dffbfb
+- dbadf
+- cdc
+- fea
+- ddafb
+- dcbaaf
+- afc
+- fa
+- bdb
+- caeaaf
+- dfab
+- eaaa
+- adf
+- bd
+- caaae
+- bf
+- fb
+- aee
+- ada
+- bdb
+- fcbfee
+- ffddfb
+- f
+- dfd
+- eaf
+- bacb
+- cb
+- cbb
+- ddbaa
+- ec
+- fdefb
+- bb
+- c
+- bda
+- ecaffe
+- bdfdc
+- abdcfd
+- af
+- adeaa
+- feee
+- fbbe
+- ade
+- d
+- faea
+- cfbc
+- cfdcc
+- bfbab
+- fdfcb
+- edfdb
+- bcee
+- d
+- fa
+- bd
+- afddaf
+- be
+- aacd
+- bea
+- ec
+- badcce
+- ecba
+- adcbe
+- e
+- a
+- ae
+- aefac
+- aae
+- bbb
+- bbffb
+- fcfa
+- fe
+- dddbef
+- bf
+- dddae
+- affe
+- c
+- cfc
+- beffba
+- f
+- fafbc
+- c
+- fdfefd
+- ddecde
+- dcede
+- aefaa
+- eece
+- abebaa
+- eacfce
+- b
+- d
+- eefe
+- ea
+- febbdd
+- bdebe
+- dcfa
+- cad
+- c
+- cef
+- bcbd
+- beccf
+- cbbfd
+- eabebb
+- e
+- baafd
+- fdadee
+- bbcdd
+- aa
+- abadfa
+- aa
+- aea
+- bf
+- beb
+- edd
+- fd
+- a
+- b
+- bee
+- ecd
+- ede
+- caafbb
+- bfaef
+- afea
+- ebeabc
+- efe
+- afbceb
+- fbbfc
+- a
+- e
+- fbdc
+- a
+- ad
+- f
+- be
+- dbefaf
+- ffbc
+- cde
+- e
+- cedcfd
+- fabfce
+- daf
+- fcdcb
+- eeaa
+- eec
+- fef
+- efa
+- ccbe
+- bebfec
+- af
+- cfceb
+- e
+- fc
+- fe
+- ba
+- faa
+- fdbed
+- a
+- edbfbf
+- bf
+- a
+- bfdbf
+- c
+- ffaa
+- deca
+- fbc
+- e
+- dcb
+- fc
+- bdbfeb
+- deb
+- bd
+- dbcacc
+- feccb
+- cecbd
+- eea
+- dcee
+- cdff
+- bdd
+- cabeac
+- dc
+- c
+- acbeaf
+- fbdde
+- dd
+- fbbfed
+- afedb
+- ded
+- aec
+- fdfcfc
+- aaef
+- ffab
+- dab
+- ba
+- ec
+- dcfdb
+- dbba
+- b
+- afd
+- bbcbbe
+- bdd
+- edb
+- bab
+- fbd
+- e
+- ebea
+- ebaa
+- b
+- aafef
+- ceab
+- f
+- ecc
+- c
+- deefd
+- ca
+- f
+- bbb
+- db
+- fdaf
+- fb
+- cb
+- ef
+- cfaaad
+- f
+- afbbfb
+- fbee
+- db
+- bece
+- d
+- f
+- eddec
+- a
+- fdea
+- d
+- eabbcf
+- ac
+- dcbfb
+- ee
+- bfafaf
+- ebafd
+- cbc
+- fbaf
+- be
+- eeddb
+- cdff
+- ceaac
+- edcadc
+- abaa
+- ab
+- eb
+- ffcda
+- ccd
+- cafbf
+- cebbf
+- ac
+- aaebab
+- a
+- fc
+- db
+- ceebba
+- abcd
+- d
+- cdebc
+- de
+- ae
+- ae
+- aafcca
+- daabfe
+- bfdb
+- ea
+- bca
+- ea
+- ceeeb
+- ace
+- c
+- e
+- cfcd
+- bea
+- eaffa
+- eedbea
+- cbfeb
+- fba
+- cf
+- dd
+- cefdfa
+- ccc
+- f
+- dacd
+- d
+- eaaadf
+- bfeed
+- bf
+- d
+- becfe
+- d
+- ebaef
+- cbcb
+- bbfd
+- de
+- e
+- fcdc
+- dcd
+- dc
+- b
+- afc
+- ecfcd
+- fd
+- cbfb
+- aefb
+- af
+- bafcaf
+- cc
+- fffaaf
+- ffed
+- d
+- ffffe
+- f
+- ebedac
+- fedcc
+- aecbc
+- dab
+- adefd
+- d
+- bc
+- cfeb
+- dbeedc
+- b
+- ddacec
+- bcdaae
+- bfcceb
+- dbbf
+- cefcaa
+- f
+- b
+- f
+- da
+- ca
+- dfface
+- afdfa
+- fbdda
+- ab
+- ecabb
+- dbacce
+- a
+- bcdc
+- ef
+- dd
+- dfcca
+- abcddd
+- ecc
+- aefbd
+- d
+- de
+- bdceb
+- febcf
+- ddab
+- ceffd
+- cfae
+- bc
+- adafa
+- daa
+- cfc
+- dfd
+- fffb
+- dedfde
+- bcf
+- be
+- decfa
+- aaf
+- da
+- eacce
+- edfbf
+- edebdd
+- bf
+- fedf
+- aceaf
+- c
+- ea
+- efe
+- debcea
+- b
+- db
+- beaad
+- edcc
+- eb
+- bee
+- eca
+- cffbcf
+- caa
+- a
+- db
+- a
+- f
+- ecafda
+- e
+- e
+- ecfbcd
+- ee
+- c
+- a
+- acdebb
+- ae
+- dacc
+- befbce
+- cbedef
+- be
+- be
+- ffc
+- efba
+- dcb
+- cd
+- ceb
+- cdc
+- ff
+- deddfb
+- bdedcc
+- cf
+- ce
+- ffbfca
+- cffea
+- eaccf
+- fed
+- decd
+- afdba
+- adcf
+- ccbbfd
+- af
+- daab
+- d
+- fccedb
+- ebccee
+- ea
+- cbabde
+- ba
+- eaafde
+- ce
+- faea
+- aaacce
+- efd
+- dedb
+- bfc
+- facafd
+- aaec
+- ecee
+- caf
+- babec
+- cda
+- edebb
+- cbcdcd
+- cae
+- ca
+- decc
+- f
+- cbffeb
+- f
+- dbefdb
+- d
+- af
+- a
+- ed
+- edbeb
+- a
+- bacff
+- edefc
+- febeb
+- feaeab
+- ffb
+- aecba
+- bc
+- fe
+- c
+- cf
+- bccf
+- baa
+- acff
+- d
+- ed
+- ffad
+- bdcadb
+- dfeeaf
+- b
+- ece
+- dbeb
+- ff
+- dcba
+- ced
+- cf
+- cab
+- e
+- f
+- facaec
+- fffaeb
+- ca
+- bdeaec
+- ef
+- dbab
+- ad
+- caebdc
+- fb
+- ef
+- debcc
+- aa
+- afeeb
+- adefeb
+- d
+- a
+- dbadcb
+- dd
+- caa
+- ef
+- bfe
+- cced
+- d
+- da
+- cb
+- bcde
+- feefe
+- bdaaae
+- defe
+- ada
+- e
+- a
+- ba
+- dfb
+- da
+- dff
+- ae
+- eaceea
+- ada
+- daabe
+- cab
+- baf
+- fe
+- cbbcce
+- aebac
+- afe
+- fcba
+- dfdda
+- bb
+- d
+- fdbdbb
+- dedbc
+- befce
+- aababa
+- dabb
+- ab
+- def
+- cbbf
+- dad
+- ca
+- deefdd
+- cdebd
+- bedc
+- be
+- b
+- bffa
+- e
+- abfca
+- fcdbef
+- b
+- bde
+- be
+- ff
+- ba
+- dacbdb
+- aa
+- adec
+- bccc
+- d
+- fbb
+- abe
+- bbccfc
+- eaabbf
+- ffcdbc
+- fda
+- f
+- ae
+- fcaad
+- bcdeff
+- aecffc
+- dbfc
+- dbd
+- ffae
+- dadde
+- bff
+- f
+- fcc
+- bbbcca
+- fb
+- decb
+- e
+- ab
+- fdaef
+- a
+- dfefc
+- abab
+- fad
+- ebb
+- c
+- bec
+- bebeba
+- f
+- db
+- bedcd
+- d
+- dfc
+- fb
+- acafd
+- eceddd
+- ecb
+- eccf
+- bebcaa
+- eadd
+- dbdf
+- baccfb
+- b
+- c
+- cf
+- bdbca
+- a
+- cee
+- cbebed
+- fbcbab
+- e
+- aced
+- bbcfe
+- efed
+- bfc
+- def
+- bcbca
+- cc
+- bacfd
+- cca
+- cfbde
+- a
+- bfc
+- abcdf
+- f
+- bb
+- cf
+- ceaf
+- aedf
+- f
+- efeacf
+- c
+- acdc
+- fee
+- a
+- a
+- bcaed
+- ab
+- bf
+- decdeb
+- cad
+- bffce
+- dafeed
+- ffb
+- edafec
+- acafac
+- eeadcb
+- f
+- cca
+- f
+- fceec
+- dacdde
+- ccad
+- c
+- f
+- dfadfd
+- c
+- cafc
+- fcb
+- cbbf
+- b
+- fcbbf
+- e
+- adb
+- d
+- bedfee
+- cfacb
+- fe
+- dcfbfa
+- ec
+- dbcfea
+- aaccce
+- ebadd
+- ab
+- afbb
+- cbdee
+- dffc
+- ccaaf
+- fdfbf
+- acda
+- ec
+- cbccc
+- abbecf
+- d
+- eaaa
+- effba
+- fc
+- edcace
+- c
+- bdccb
+- d
+- bf
+- baddda
+- ecb
+- bedbdc
+- defaeb
+- ecadca
+- abad
+- b
+- cadfca
+- daeacd
+- bab
+- adfe
+- cbeee
+- b
+- b
+- c
+- df
+- eef
+- dffb
+- dabbb
+- dadb
+- cacbdc
+- dcaba
+- d
+- ddd
+- dad
+- ff
+- ed
+- aaebfe
+- af
+- ececd
+- cefafb
+- efce
+- ffcc
+- d
+- fced
+- ab
+- bad
+- a
+- ccca
+- b
+- cecbdf
+- beaa
+- e
+- e
+- fabfd
+- dbbcb
+- db
+- fdcd
+- f
+- ccef
+- dfcbfe
+- fcfed
+- fc
+- cbccdd
+- aadc
+- ffbcb
+- bd
+- cda
+- bdadd
+- a
+- a
+- dcd
+- d
+- fe
+- e
+- dbebe
+- ffcfd
+- ed
+- bbb
+- a
+- dbbad
+- dfaffa
+- ccfefa
+- fabbcd
+- ed
+- fd
+- e
+- dc
+- cd
+- ffefb
+- feca
+- fbecfa
+- b
+- ccacbf
+- bebfea
+- fdfcbc
+- fb
+- f
+- bd
+- bb
+- eae
+- bad
+- ea
+- dbddc
+- ff
+- cdf
+- dafebd
+- abc
+- d
+- afeb
+- c
+- afbcc
+- baa
+- ffebbc
+- cec
+- dfcdc
+- cdca
+- bdaeeb
+- dad
+- eaeeb
+- eadfd
+- aceaa
+- b
+- cee
+- ac
+- cf
+- cdbb
+- cdc
+- ff
+- ced
+- da
+- adbcba
+- efba
+- acbbdc
+- c
+- adcadc
+- cecb
+- cdadad
+- becaf
+- b
+- bace
+- a
+- d
+- ec
+- bdcc
+- c
+- dfd
+- eb
+- ce
+- cdc
+- eddd
+- bdf
+- c
+- fc
+- cfdae
+- ccedc
+- cdca
+- ba
+- acd
+- feafde
+- d
+- cdcfd
+- ffbbec
+- f
+- ccdc
+- fc
+- cbae
+- b
+- ecda
+- ab
+- ae
+- d
+- eaf
+- fcbc
+- ab
+- dcfc
+- deca
+- cfcfbe
+- ecfaff
+- cffcd
+- f
+- cfd
+- ebacda
+- efd
+- fea
+- caebd
+- ff
+- bfbdc
+- cfa
+- faddb
+- fcacc
+- fb
+- c
+- cabfb
+- aecd
+- dffe
+- fbeedb
+- ac
+- cfa
+- be
+- aedeba
+- cbf
+- cbeb
+- edfd
+- ccfce
+- dbfcf
+- bdbbda
+- bdf
+- e
+- dcde
+- feacdd
+- bff
+- b
+- bacbfb
+- dfd
+- ec
+- bdd
+- f
+- eace
+- bbb
+- cecadc
+- c
+- eacdee
+- caaff
+- dbb
+- aad
+- adccd
+- ebedcf
+- bcfec
+- ebce
+- dfd
+- fa
+- f
+- afad
+- aaf
+- bd
+- afccdb
+- beaab
+- df
+- c
+- b
+- db
+- fccdc
+- f
+- cd
+- e
+- fbdacb
+- d
+- c
+- ff
+- f
+- bb
+- bfed
+- edd
+- ea
+- adb
+- bf
+- ac
+- dab
+- cff
+- aded
+- d
+- caa
+- bfddc
+- bbce
+- c
+- cbedf
+- fdaad
+- a
+- dcefa
+- f
+- fbdf
+- abe
+- fdc
+- eea
+- da
+- bcdaad
+- cfb
+- a
+- debecc
+- ffdeec
+- aea
+- faac
+- bfee
+- eb
+- fbbcd
+- aed
+- b
+- fb
+- adcc
+- acdd
+- aaca
+- eb
+- fea
+- ad
+- ad
+- cae
+- dfeb
+- db
+- cfe
+- aaeb
+- cbcfab
+- cfdaa
+- cbddea
+- dde
+- debac
+- ff
+- aeebb
+- aaaaf
+- bf
+- dcafa
+- bdabf
+- aa
+- fdb
+- aafeec
+- fff
+- accab
+- dbca
+- ebafd
+- dbaf
+- eeada
+- fef
+- dbfd
+- aec
+- deecae
+- dffaab
+- ae
+- bedd
+- da
+- d
+- afebd
+- ccba
+- af
+- ac
+- cded
+- dbc
+- a
+- b
+- beac
+- ccedff
+- e
+- fedaef
+- dea
+- f
+- d
+- f
+- bdaa
+- ffedec
+- bfeee
+- dabeef
+- d
+- cfc
+- bcdbd
+- adaebd
+- be
+- f
+- af
+- eeccab
+- dda
+- cf
+- dbd
+- bbda
+- ca
+- deabd
+- fdbdea
+- efccbd
+- ce
+- eceadd
+- a
+- fbeced
+- adceae
+- f
+- adbe
+- eedcc
+- bdf
+- bc
+- abb
+- ccead
+- dbec
+- c
+- e
+- acaf
+- c
+- ebbefd
+- ee
+- edaa
+- eca
+- dabdda
+- ad
+- edbe
+- a
+- b
+- dfd
+- ddbdc
+- cdebc
+- fabeca
+- fdfaa
+- b
+- af
+- f
+- deed
+- eb
+- ae
+- c
+- cd
+- fcb
+- b
+- feff
+- c
+- dcdd
+- cbe
+- ceb
+- c
+- cbbef
+- afebc
+- ecfb
+- caab
+- cc
+- badb
+- eaf
+- ce
+- cabc
+- fffc
+- fffa
+- bda
+- be
+- dbcc
+- eef
+- baefa
+- cebaa
+- debee
+- efaf
+- b
+- cdeefc
+- bd
+- cabf
+- de
+- cbfe
+- ebedea
+- dedee
+- bebedf
+- baec
+- ccbf
+- beddc
+- ede
+- db
+- bdc
+- af
+- eca
+- edfda
+- cfaa
+- dcfdbd
+- bbdd
+- bfa
+- affdd
+- ce
+- fb
+- abcda
+- d
+- c
+- eebabd
+- ab
+- cfc
+- eeafae
+- ffd
+- d
+- bccdf
+- c
+- b
+- bc
+- dcea
+- b
+- fcaba
+- cbeacc
+- ded
+- cdbba
+- fabbb
+- cac
+- f
+- cbfac
+- bcfbdb
+- afbbab
+- ecbe
+- eae
+- af
+- cdceeb
+- bafab
+- dcc
+- b
+- dfbc
+- abbeed
+- bbebd
+- bead
+- bab
+- eae
+- c
+- fdcdbb
+- adacf
+- eff
+- deac
+- cebabc
+- eb
+- ffecf
+- fffff
+- dbfef
+- e
+- bfbd
+- bd
+- fdcdaf
+- dea
+- aceafc
+- dbca
+- bca
+- abefab
+- bfecff
+- bfecc
+- fd
+- dab
+- eeea
+- cad
+- fcfcfa
+- aa
+- f
+- fdba
+- ad
+- daacbd
+- dffdb
+- c
+- d
+- da
+- daab
+- ed
+- f
+- ebcb
+- e
+- db
+- eac
+- fabf
+- cdff
+- aecdd
+- ebd
+- dbcce
+- cba
+- edddab
+- bbf
+- feacbc
+- d
+- dbfea
+- bfccdf
+- bcafdb
+- d
+- e
+- fc
+- edeb
+- f
+- a
+- afbade
+- b
+- cdec
+- b
+- b
+- efb
+- b
+- aadab
+- b
+- aa
+- aceec
+- e
+- dabca
+- ea
+- feaecb
+- ecf
+- bbecad
+- e
+- eefce
+- d
+- c
+- cedb
+- db
+- debb
+- bdbbd
+- cbccea
+- aaadd
+- f
+- c
+- f
+- defe
+- cbaede
+- de
+- eee
+- deaac
+- eeeda
+- bfdcdb
+- fb
+- a
+- cffadd
+- fdce
+- e
+- bfdbc
+- baad
+- cceb
+- e
+- ffc
+- a
+- dddf
+- aaaaad
+- da
+- a
+- ebbfb
+- ed
+- cfeba
+- bcd
+- bacecc
+- eeaf
+- bcf
+- fcf
+- fb
+- ebdae
+- edf
+- edac
+- cacca
+- cfaefc
+- accd
+- dd
+- bcfa
+- be
+- debaad
+- febf
+- cccff
+- fcccfb
+- b
+- aa
+- affd
+- fdc
+- aed
+- c
+- dcacbd
+- dab
+- bdadba
+- aefdba
+- f
+- fcdc
+- d
+- fafac
+- d
+- fddbf
+- fbca
+- cccf
+- afcee
+- fd
+- fc
+- eb
+- ebbfab
+- fff
+- cfadce
+- ca
+- db
+- dfbb
+- a
+- ecbbfe
+- ae
+- da
+- d
+- cdae
+- c
+- f
+- bfc
+- edce
+- bfc
+- eddbba
+- dac
+- ad
+- efeede
+- eb
+- bff
+- cff
+- b
+- faa
+- dcacd
+- ba
+- adcfc
+- cb
+- c
+- cc
+- a
+- adef
+- fecc
+- bfaeff
+- beaaeb
+- fcf
+- adbbac
+- edf
+- adcb
+- ae
+- bbec
+- eda
+- effec
+- be
+- fdaeff
+- cfea
+- bc
+- d
+- defe
+- fbe
+- c
+- c
+- d
+- ca
+- cbce
+- fa
+- bbd
+- dadcf
+- de
+- aaeee
+- bdbbab
+- cfd
+- deccfb
+- cdcef
+- efbf
+- ebbbce
+- d
+- bfc
+- abcec
+- dbecd
+- f
+- abbd
+- d
+- bcc
+- dffecb
+- acde
+- ae
+- bbdf
+- ecce
+- bcef
+- bfdc
+- d
+- eeca
+- bfc
+- b
+- ddbafa
+- dcab
+- ffcaad
+- defefa
+- eafd
+- dcf
+- bc
+- ab
+- fdfffc
+- b
+- ea
+- bcffac
+- bfdaf
+- afbcc
+- fecd
+- ca
+- bcc
+- b
+- fec
+- fcedcf
+- fca
+- fddbde
+- eeefed
+- f
+- ebcea
+- dfbe
+- fe
+- bf
+- bfced
+- febfea
+- ea
+- bbf
+- cccdaa
+- d
+- cdfae
+- bf
+- bbd
+- dcaccc
+- febb
+- fabc
+- ecaa
+- dbbdb
+- ba
+- beeda
+- bc
+- eee
+- acadb
+- fa
+- efdee
+- cafba
+- ddbdbb
+- dfebfe
+- edbfb
+- efbabc
+- bddaaa
+- bfebcb
+- ecafd
+- cfcb
+- fac
+- a
+- dfdfef
+- ebffa
+- ddeae
+- cdecae
+- bdf
+- cc
+- deadc
+- ebeb
+- bdba
+- eeafa
+- a
+- ddc
+- cbe
+- d
+- e
+- dddfc
+- dedaf
+- adec
+- dc
+- c
+- aa
+- cc
+- adca
+- adbb
+- cff
+- cdd
+- ebabc
+- fbbe
+- bb
+- fc
+- ceb
+- bee
+- bedb
+- afcfaf
+- ea
+- ed
+- d
+- cda
+- fbdd
+- a
+- e
+- f
+- edd
+- beabc
+- fdbcee
+- e
+- eadc
+- cfebfa
+- cddfbc
+- dfdbb
+- bfe
+- cc
+- bafa
+- cecf
+- bfbfcf
+- cdfe
+- acabdd
+- ac
+- aca
+- cd
+- da
+- ccfd
+- ddaac
+- acea
+- faa
+- dbbf
+- fed
+- fac
+- aa
+- cedf
+- e
+- e
+- b
+- fdab
+- d
+- af
+- bafdce
+- eda
+- cef
+- afd
+- b
+- e
+- ede
+- dd
+- d
+- cacbde
+- dccefc
+- c
+- aafbb
+- cda
+- eeefcf
+- b
+- eefadb
+- d
+- bdba
+- caeb
+- aacc
+- c
+- df
+- cbf
+- fffaee
+- cd
+- ddfabb
+- bc
+- da
+- eb
+- ecbd
+- e
+- aeaf
+- ac
+- aee
+- cfefc
+- eaebd
+- bb
+- afeb
+- beea
+- cfadad
+- ebdefb
+- aeebcf
+- abe
+- fabbeb
+- bb
+- cabc
+- ce
+- feace
+- ceafd
+- feabdf
+- ccc
+- ce
+- cfdcc
+- acc
+- fdcf
+- cbcfad
+- fdd
+- a
+- acccc
+- e
+- cdfcec
+- aefd
+- beb
+- eaa
+- ecf
+- b
+- cf
+- abbdfa
+- dfbdb
+- cdbda
+- bac
+- cbbe
+- aad
+- f
+- ddcba
+- d
+- bbecb
+- bdafdb
+- eba
+- b
+- cfead
+- ef
+- feaaeb
+- caec
+- d
+- fdcd
+- bfdc
+- cdfbdd
+- d
+- addfee
+- daea
+- db
+- cfdd
+- f
+- eeef
+- caeebf
+- d
+- aefdd
+- e
+- f
+- bdcb
+- b
+- cbec
+- edad
+- dd
+- dd
+- db
+- bcfabc
+- fbb
+- d
+- dbcb
+- a
+- deae
+- f
+- dfbfea
+- beafb
+- cfdb
+- acaacb
+- cebac
+- eabc
+- cfbced
+- ebfa
+- cdfcd
+- aedd
+- bafbd
+- ecc
+- b
+- fdb
+- ba
+- ea
+- bc
+- edbdcd
+- dbbfcf
+- a
+- befef
+- fbef
+- e
+- bba
+- d
+- fddafd
+- bc
+- fadd
+- df
+- cefc
+- fecce
+- bd
+- ea
+- beecfe
+- cfbfe
+- fabaf
+- deff
+- becac
+- deabfc
+- cdfecb
+- feccb
+- ff
+- efcc
+- faa
+- fba
+- ceaab
+- acb
+- ebffdf
+- cca
+- ec
+- adfbe
+- b
+- ffdcdc
+- dcba
+- ddbfdb
+- a
+- bce
+- fd
+- ef
+- fd
+- ca
+- acdc
+- dbcebf
+- ccbac
+- abebaa
+- edcbef
+- bf
+- fbac
+- ffdafd
+- cab
+- bbcebc
+- caad
+- fcdcc
+- dea
+- e
+- aafadd
+- bbf
+- decaa
+- ae
+- db
+- ee
+- bbcce
+- acdfa
+- ddfafa
+- abcdf
+- cae
+- defbc
+- dd
+- ebbbfa
+- dccf
+- fec
+- cb
+- ffaf
+- dcfdac
+- fae
+- acacc
+- bef
+- aeeb
+- d
+- acbbe
+- fdefc
+- b
+- ebead
+- fbdba
+- f
+- aceadd
+- fcd
+- fca
+- eec
+- db
+- ddcdcf
+- cdb
+- dde
+- eaebcf
+- bfacb
+- abeb
+- bfad
+- a
+- d
+- bfccd
+- bcafe
+- edbbb
+- ebabf
+- ff
+- fab
+- f
+- ca
+- bbdefa
+- bec
+- cffb
+- aeef
+- bcbef
+- c
+- b
+- eecf
+- ded
+- fcccbf
+- daa
+- bfcdba
+- c
+- debad
+- ebecd
+- baf
+- dcfc
+- dadd
+- ed
+- cce
+- faf
+- edcfdd
+- b
+- af
+- dabf
+- bbfa
+- b
+- ebdced
+- fcdae
+- cee
+- e
+- dd
+- d
+- faae
+- afd
+- cdca
+- cce
+- defaaa
+- bbf
+- cb
+- dafe
+- ceabea
+- bb
+- cff
+- af
+- ee
+- afaefb
+- bfa
+- ccdfe
+- c
+- ddd
+- ac
+- e
+- ee
+- fab
+- bf
+- dcde
+- fee
+- ea
+- edef
+- cac
+- ff
+- fbeca
+- fa
+- ce
+- bafbfb
+- cd
+- eaf
+- a
+- feecde
+- adeae
+- cdacc
+- bbbbeb
+- dedd
+- dbadd
+- cbfeb
+- cbbab
+- aab
+- beecbd
+- cebc
+- ccabef
+- aedf
+- ddfeae
+- eab
+- cd
+- feedf
+- aba
+- efdba
+- ad
+- e
+- d
+- bcffb
+- dd
+- cbbded
+- ebafaa
+- ddede
+- beaeff
+- ade
+- eedffa
+- d
+- bc
+- daede
+- efcf
+- afabfb
+- d
+- cafbc
+- fadf
+- ecdaed
+- cdabc
+- d
+- ecdad
+- eacddf
+- ffa
+- bdeeb
+- fde
+- ecf
+- dcefaa
+- bddb
+- edcf
+- aa
+- cefa
+- d
+- e
+- de
+- efd
+- cb
+- caaabd
+- deeff
+- eeed
+- c
+- bbbaa
+- bac
+- e
+- afdca
+- affa
+- afe
+- afdc
+- fcdfb
+- fdcb
+- addefe
+- caceb
+- df
+- cbcefd
+- d
+- cfcec
+- ffbd
+- e
+- ccbb
+- dcefa
+- abba
+- fed
+- ffeeee
+- ccc
+- adca
+- cde
+- bfdea
+- bf
+- ca
+- eefe
+- ebffd
+- da
+- acca
+- eeb
+- bdccd
+- efdbd
+- ffaaa
+- ae
+- deffff
+- c
+- dacdbe
+- dadffb
+- cddab
+- a
+- dfccff
+- becab
+- cb
+- bbec
+- ccad
+- ffd
+- baf
+- edea
+- ebefbb
+- ea
+- cfdf
+- bfca
+- beee
+- f
+- da
+- cafb
+- ececfc
+- cdaa
+- fcfab
+- cfaa
+- cc
+- dc
+- dbf
+- ecfbed
+- f
+- eabf
+- adddb
+- bfcd
+- df
+- abe
+- ab
+- f
+- dcaca
+- da
+- fe
+- aaa
+- caca
+- bf
+- ed
+- acfee
+- cfede
+- bc
+- bf
+- ba
+- ff
+- db
+- afdebb
+- fdfa
+- bdbb
+- ccdfe
+- ffddd
+- dfda
+- abcded
+- bffac
+- dacc
+- fddce
+- bad
+- cbe
+- dd
+- dd
+- fd
+- daaece
+- f
+- be
+- ccedae
+- deca
+- bdffba
+- bebe
+- f
+- b
+- ebbe
+- df
+- bcaeca
+- bdba
+- baf
+- edae
+- af
+- ded
+- efdc
+- dabdec
+- c
+- a
+- e
+- dbaac
+- ae
+- ebc
+- ececea
+- ec
+- daa
+- bd
+- abc
+- be
+- eba
+- ae
+- bbc
+- cddbd
+- deca
+- fc
+- daa
+- bead
+- dd
+- edde
+- bffefb
+- adeedd
+- ecca
+- eb
+- a
+- faee
+- bbfbe
+- dcdafb
+- cedecf
+- dabeca
+- cdbca
+- dadbd
+- ccddf
+- faff
+- ecbd
+- e
+- afacb
+- a
+- eebe
+- a
+- ecbfea
+- d
+- eb
+- bbdded
+- fe
+- dcdabb
+- bec
+- cd
+- f
+- bddabc
+- cfdc
+- ecca
+- ead
+- ecee
+- dbdcea
+- fddee
+- dfcda
+- fcff
+- ffac
+- bbbdfe
+- cadaa
+- ad
+- bcfc
+- ac
+- ef
+- eaf
+- db
+- a
+- babc
+- fadfd
+- a
+- cca
+- af
+- efae
+- cc
+- dbdad
+- fad
+- ba
+- b
+- cbb
+- e
+- bffd
+- dbd
+- eabb
+- e
+- defc
+- ddedc
+- ff
+- ffb
+- c
+- ed
+- bffeef
+- dcfa
+- adb
+- ed
+- bfffac
+- dacb
+- dae
+- f
+- fe
+- b
+- dbbe
+- a
+- deedfe
+- fadac
+- bcbcf
+- edbbcb
+- c
+- bde
+- fae
+- ebc
+- ffdc
+- faaedb
+- e
+- fcacb
+- ee
+- afcdd
+- bfbcca
+- dcf
+- aeab
+- eacde
+- fee
+- daec
+- f
+- bccec
+- fceac
+- f
+- caf
+- f
+- cfddf
+- aaff
+- dbd
+- de
+- bbadb
+- ffbd
+- ff
+- d
+- a
+- a
+- fedf
+- ebcac
+- ab
+- bfa
+- cdd
+- aaeafe
+- cc
+- f
+- abcffb
+- ffbeab
+- bcdffa
+- bb
+- dafeb
+- bccfbd
+- fceefd
+- dd
+- de
+- dff
+- de
+- debcae
+- bacecb
+- baa
+- b
+- deeaae
+- b
+- acda
+- afa
+- dabaa
+- eeab
+- bfaaa
+- afac
+- bfeecb
+- edec
+- aaa
+- fefada
+- eccfe
+- e
+- cbecba
+- fbecc
+- fbfb
+- cbbbec
+- fabbf
+- accbbe
+- b
+- d
+- ffc
+- db
+- eedaa
+- ce
+- dfeea
+- bbac
+- ffcde
+- cfcd
+- fbcba
+- fcdfe
+- fc
+- dcfc
+- df
+- ddbec
+- ddeef
+- d
+- acd
+- bda
+- bf
+- babca
+- ba
+- f
+- adaee
+- cbfec
+- dccaec
+- ce
+- dbe
+- da
+- dda
+- bdfa
+- b
+- bcbd
+- b
+- eccce
+- aeedad
+- caed
+- dfdef
+- ecaa
+- ac
+- b
+- c
+- abd
+- ebec
+- ecabb
+- df
+- fa
+- dadf
+- f
+- a
+- dc
+- bc
+- aefa
+- dcce
+- a
+- deab
+- dbac
+- fbf
+- eb
+- c
+- fcb
+- eea
+- acac
+- eb
+- bffa
+- eceb
+- feeed
+- ded
+- aec
+- dbad
+- bbbfa
+- b
+- bbbebf
+- cf
+- ebccdd
+- fcef
+- ccebfa
+- cfd
+- dff
+- ea
+- ec
+- faddaf
+- f
+- b
+- dabd
+- dfec
+- cdbcc
+- fff
+- fcdad
+- ceecfa
+- dcfdda
+- c
+- ecee
+- aeb
+- bcfe
+- fccbbd
+- ed
+- eecaad
+- decbae
+- fe
+- acbed
+- ef
+- bbfbdb
+- da
+- da
+- ecccdb
+- dca
+- a
+- eeeb
+- bedcb
+- cee
+- eddf
+- fb
+- cafef
+- eebbda
+- edeb
+- bedcf
+- ebe
+- baa
+- aeec
+- adced
+- fd
+- ebcbd
+- bddecc
+- dceebf
+- dfa
+- bfaea
+- af
+- dffc
+- cdf
+- a
+- c
+- eaecf
+- babec
+- aad
+- ccc
+- cb
+- ce
+- d
+- abc
+- acbbb
+- baaccc
+- ecedc
+- abece
+- deb
+- fa
+- b
+- cefc
+- dc
+- aefc
+- afac
+- c
+- cdee
+- fbedff
+- aae
+- a
+- efed
+- fdc
+- be
+- ebbea
+- ffcbac
+- deead
+- e
+- ddaf
+- b
+- bbd
+- eccc
+- cfc
+- eabcb
+- dcfff
+- fefa
+- e
+- cbdcf
+- bbf
+- bf
+- d
+- b
+- f
+- fcde
+- aa
+- dcc
+- eccbee
+- b
+- f
+- cedbad
+- a
+- cddbde
+- cebe
+- ad
+- aabcaa
+- bcdbcf
+- caf
+- bf
+- e
+- babfcf
+- d
+- ecdb
+- feca
+- bcec
+- cbdbcf
+- e
+- dc
+- acdcff
+- aeff
+- bdcd
+- edfddd
+- c
+- cddddd
+- efdb
+- cefa
+- eb
+- ecf
+- dee
+- e
+- c
+- dade
+- fcbe
+- cadce
+- fabfbd
+- ede
+- ba
+- dfd
+- beb
+- ee
+- facae
+- ae
+- ebd
+- dabdc
+- ee
+- dcfdba
+- bdbaa
+- ed
+- eddaa
+- aade
+- aadaca
+- aa
+- adce
+- bbbfdc
+- e
+- dabc
+- cffb
+- aceabe
+- ed
+- eeeab
+- d
+- deb
+- bef
+- fece
+- acac
+- f
+- efbceb
+- cc
+- beafb
+- c
+- e
+- ddcbaa
+- abec
+- abfad
+- cabcbb
+- aecb
+- acd
+- cefc
+- bbcabe
+- bf
+- fa
+- babab
+- bda
+- bfe
+- acaf
+- dcffc
+- eb
+- deb
+- defcf
+- afffd
+- db
+- bfdec
+- d
+- be
+- ffaf
+- cefb
+- ebaccf
+- cdca
+- cbffda
+- cabcf
+- dc
+- d
+- acd
+- dfb
+- a
+- cfbc
+- ddaeb
+- deedc
+- cda
+- aaf
+- bf
+- c
+- f
+- edeb
+- fc
+- fda
+- adca
+- fedbcd
+- ee
+- edde
+- efd
+- af
+- acffe
+- f
+- cdfefd
+- abadad
+- de
+- b
+- dcecf
+- abb
+- faebd
+- a
+- fa
+- fba
+- d
+- fbd
+- cd
+- fcadcb
+- ec
+- c
+- e
+- dadeb
+- ffbcd
+- ed
+- cadaba
+- da
+- d
+- fdda
+- cbebaa
+- cec
+- dddcd
+- ccbbb
+- caeed
+- bcdcdb
+- babbe
+- fedc
+- affbad
+- bafe
+- aaefd
+- deecdd
+- dd
+- fdd
+- faeca
+- bfae
+- a
+- acef
+- cb
+- bbaec
+- ced
+- daa
+- daeefb
+- edbfc
+- eb
+- fceea
+- fe
+- cdaa
+- fe
+- da
+- bde
+- dedcd
+- ebbbdf
+- afab
+- beabaf
+- cdba
+- fdcfd
+- bcaddf
+- f
+- cbfaa
+- feedbe
+- dfbefc
+- f
+- fbbdcf
+- cd
+- cfdb
+- fda
+- c
+- eea
+- b
+- febcb
+- ffce
+- ccd
+- cda
+- ebc
+- b
+- ffdac
+- fcf
+- f
+- bfbfdb
+- efd
+- ad
+- af
+- dcffb
+- abcced
+- bab
+- e
+- ced
+- abfa
+- cdf
+- ebfdab
+- ffbd
+- ccfb
+- bfaace
+- ddfdac
+- a
+- dfecf
+- ebfcc
+- dbaabd
+- f
+- fedaae
+- aecdc
+- fbfb
+- ed
+- a
+- fcebfc
+- bfb
+- f
+- abf
+- edabe
+- f
+- dea
+- afd
+- abdedc
+- ae
+- d
+- aaafd
+- ebfbcf
+- efc
+- edeadb
+- bda
+- dfcfa
+- cedc
+- ab
+- bd
+- a
+- eaa
+- ba
+- c
+- cdaceb
+- acbd
+- ed
+- fffacf
+- dad
+- afd
+- eeaea
+- fdaad
+- ffe
+- cdcafc
+- aae
+- faefff
+- bcdffb
+- f
+- bffadc
+- e
+- ddbf
+- ffde
+- bdffef
+- cfc
+- ed
+- c
+- ba
+- dadda
+- afdefc
+- b
+- eccbfa
+- fafdca
+- aebefa
+- ebfd
+- abfffe
+- fddcb
+- edcceb
+- ffa
+- cce
+- febcc
+- adbeae
+- cedfbf
+- db
+- fceaca
+- e
+- ecf
+- cfdb
+- dfcbcf
+- bdddbb
+- acc
+- bf
+- cea
+- afb
+- efc
+- effd
+- adefdd
+- cf
+- cd
+- ddfaae
+- b
+- d
+- e
+- b
+- cfc
+- ad
+- faaffa
+- dfb
+- fafecd
+- ddddc
+- fdcfee
+- bdc
+- af
+- afbac
+- cfdd
+- cdbcbe
+- eaaaf
+- facaa
+- ebfbeb
+- bfca
+- fddfe
+- bba
+- deca
+- f
+- d
+- ab
+- d
+- d
+- eeddc
+- daaccc
+- bbc
+- ba
+- afcb
+- bcbfe
+- ad
+- daceb
+- c
+- cc
+- ade
+- ff
+- eddedd
+- edabbb
+- dfd
+- b
+- cbea
+- edb
+- bfb
+- eaabf
+- ce
+- f
+- ef
+- f
+- bfa
+- da
+- d
+- cdfbeb
+- ea
+- fd
+- b
+- f
+- fff
+- dabdf
+- ebbc
+- dbed
+- be
+- dbe
+- e
+- dadcaf
+- aff
+- fcaf
+- cccc
+- cdd
+- bdfab
+- fccd
+- dadd
+- faddfb
+- dfce
+- bffedf
+- cc
+- cafdda
+- eef
+- ed
+- deadd
+- cfcf
+- decf
+- a
+- efbcdb
+- baffd
+- dbef
+- eaedb
+- bbf
+- f
+- cfaccb
+- efebd
+- c
+- a
+- b
+- cbb
+- adfccd
+- ccc
+- d
+- dfebf
+- aea
+- cffddc
+- ff
+- d
+- f
+- dab
+- bd
+- efbdba
+- ec
+- afedf
+- cabaad
+- bcfc
+- bd
+- acd
+- ff
+- fc
+- eadbea
+- dfad
+- ffbdb
+- acdb
+- bb
+- bcfdbb
+- dc
+- d
+- dfac
+- bfff
+- fc
+- f
+- ba
+- b
+- bbd
+- ae
+- eadcb
+- e
+- c
+- bedce
+- cacbaa
+- b
+- f
+- bee
+- efabcf
+- ecaffb
+- bad
+- eeff
+- ace
+- ebe
+- cec
+- d
+- efafc
+- e
+- efe
+- dec
+- cfa
+- ccbfe
+- cc
+- feb
+- dbda
+- fd
+- befd
+- e
+- eaf
+- a
+- ccef
+- ecbafa
+- fdbfe
+- dacd
+- cfebf
+- faf
+- fc
+- bddebb
+- dacaa
+- dbfb
+- aaab
+- ceefa
+- bddd
+- aceeb
+- e
+- aeea
+- bf
+- eef
+- d
+- accbd
+- ba
+- bcc
+- feaa
+- cbfaba
+- abfb
+- fadef
+- ddaecb
+- b
+- bfaebf
+- acff
+- effbde
+- e
+- ccddec
+- effacc
+- e
+- a
+- d
+- fbdbf
+- ae
+- eabfb
+- fbafda
+- dcf
+- edcaf
+- e
+- bcdba
+- ccae
+- fbbe
+- b
+- db
+- bbbdb
+- aedfe
+- abccab
+- bdca
+- fbfda
+- dbaef
+- adcdcc
+- dde
+- c
+- ad
+- cccbfe
+- acff
+- bc
+- da
+- bccbe
+- badfc
+- caebcf
+- ad
+- cdffa
+- fcfbcb
+- adcab
+- adc
+- eccb
+- deb
+- abface
+- cdcba
+- afe
+- c
+- bdbc
+- cbcded
+- d
+- ec
+- efcdf
+- dacaa
+- fbc
+- bcf
+- bff
+- bfbc
+- daaaa
+- dceaad
+- efdcbb
+- cbdca
+- dedbfc
+- bcbb
+- aedee
+- dafb
+- ac
+- cdeef
+- debbbe
+- ebc
+- f
+- e
+- df
+- cfcda
+- baadea
+- bcc
+- ead
+- bbef
+- aa
+- bfdbdd
+- dad
+- ffaf
+- bffcbf
+- ceac
+- efad
+- cef
+- aaec
+- dfcae
+- fe
+- bbab
+- eafbc
+- fdfbcd
+- d
+- cf
+- ffc
+- af
+- ebf
+- bfdabb
+- aebb
+- ebafbd
+- c
+- afce
+- fdbe
+- bf
+- cbaa
+- dcb
+- cfca
+- baabea
+- efbea
+- dffed
+- ee
+- fedbba
+- fb
+- dde
+- cb
+- eafded
+- c
+- fdde
+- adccca
+- facef
+- a
+- d
+- fcbbd
+- b
+- adcac
+- b
+- bac
+- eed
+- fcd
+- ade
+- eb
+- ff
+- ab
+- bcfdeb
+- cdf
+- fabcce
+- dfded
+- dabcb
+- fcc
+- dffab
+- d
+- a
+- fcab
+- fbafa
+- dde
+- c
+- abffbc
+- ebf
+- aaf
+- ab
+- a
+- cfaabd
+- ebc
+- ccacec
+- cdbc
+- fdfbf
+- b
+- ea
+- ee
+- ecca
+- bebd
+- efee
+- eeea
+- d
+- ceced
+- ce
+- feacfb
+- acde
+- dca
+- c
+- e
+- dddd
+- efeb
+- bfd
+- afdbb
+- ff
+- dde
+- aae
+- faeaea
+- ecd
+- fbcce
+- fffd
+- fedaec
+- bfc
+- daefc
+- d
+- bef
+- fbcee
+- e
+- cc
+- fafaf
+- bebaad
+- cefbf
+- dbce
+- bced
+- dbf
+- afe
+- ca
+- bab
+- eaa
+- fdf
+- feaad
+- d
+- ab
+- afaff
+- c
+- fdeb
+- deeace
+- bfbafb
+- daecf
+- fdcedd
+- bdebf
+- fb
+- bf
+- bc
+- bbb
+- cbcde
+- bcc
+- ef
+- abfcbf
+- ca
+- cfcb
+- aaeda
+- bcebbf
+- cdb
+- cbdecc
+- caee
+- afbd
+- ddceeb
+- d
+- a
+- cadeb
+- dfdbee
+- ab
+- efbc
+- edbdac
+- e
+- f
+- cccc
+- f
+- afced
+- afd
+- aeddf
+- ddacee
+- eed
+- fedcfe
+- fcbab
+- ecd
+- af
+- fcadf
+- fe
+- bc
+- efe
+- eec
+- bc
+- b
+- cdd
+- bbddae
+- bdf
+- fbbed
+- baea
+- ed
+- de
+- decdb
+- ccf
+- a
+- bbeeee
+- cfaacf
+- fbabde
+- ffebcb
+- cbeedb
+- bbeb
+- bbfd
+- ebf
+- aeed
+- ccf
+- c
+- bf
+- bbe
+- ceb
+- ddfeed
+- ce
+- dbfbde
+- aeeb
+- eea
+- bbbbaf
+- def
+- ca
+- bb
+- ecd
+- dd
+- eebdf
+- abef
+- ebdccd
+- fdffad
+- b
+- cbacdc
+- ede
+- cdbd
+- abefa
+- eddfdd
+- b
+- a
+- bcaffe
+- cbbdfa
+- fcaac
+- bcaf
+- e
+- b
+- bfffa
+- ffedcb
+- dadbe
+- acec
+- eecbee
+- afaab
+- db
+- cbe
+- cfbf
+- db
+- ed
+- aeeafa
+- cdafee
+- cb
+- eb
+- aff
+- cf
+- abdfbc
+- bffd
+- ebbe
+- cd
+- cf
+- fad
+- a
+- fd
+- aaaa
+- ddbc
+- aeb
+- c
+- ead
+- dbaebb
+- aee
+- ccfaaa
+- aac
+- ed
+- c
+- feaee
+- baaccc
+- feefec
+- eeed
+- fbea
+- fcbcfb
+- cea
+- afefde
+- efaad
+- cedfcb
+- dcadba
+- ead
+- b
+- aceffd
+- decacf
+- bcfadf
+- b
+- ff
+- bfefb
+- cdebb
+- a
+- ffceaf
+- aacead
+- b
+- bfffbb
+- d
+- bdb
+- ca
+- e
+- d
+- c
+- aadaad
+- c
+- ecea
+- afbc
+- eaf
+- fbd
+- fbedef
+- cffcc
+- fafb
+- eacbb
+- ceff
+- cbfdce
+- efdd
+- dfcffd
+- c
+- badcc
+- bbd
+- daffe
+- d
+- feecf
+- cfb
+- cfed
+- ebaf
+- a
+- ac
+- a
+- edcdf
+- ffecf
+- baa
+- daaee
+- cdefae
+- acfebb
+- af
+- dacf
+- bb
+- cbefe
+- dcdc
+- cafbd
+- cfc
+- baddff
+- cbebd
+- c
+- eb
+- addd
+- bddffa
+- ebebcb
+- aecafb
+- b
+- c
+- fbdf
+- efcf
+- b
+- ad
+- caad
+- ef
+- de
+- eeeabe
+- bb
+- c
+- eec
+- dcddfc
+- bbefab
+- dffb
+- a
+- ffea
+- ee
+- ed
+- abbeb
+- bf
+- bfb
+- bc
+- feaa
+- ffd
+- eaae
+- dcf
+- c
+- ba
+- aec
+- ddce
+- caeeeb
+- e
+- eaebbf
+- afbc
+- c
+- fafaff
+- a
+- aff
+- a
+- eecfa
+- bccccd
+- cf
+- aeaea
+- caed
+- cadada
+- ca
+- bfe
+- dab
+- effddc
+- a
+- fead
+- ae
+- d
+- eacade
+- beeadb
+- abff
+- e
+- e
+- d
+- acba
+- aafcb
+- a
+- bdf
+- bba
+- abebb
+- aaeac
+- fdc
+- bbdcf
+- afebd
+- cedcd
+- eeddf
+- fffe
+- bce
+- e
+- fcfde
+- a
+- aca
+- bcead
+- bfea
+- deaa
+- a
+- c
+- e
+- efea
+- dee
+- bdef
+- cd
+- aecee
+- efdf
+- e
+- fddca
+- ecb
+- bf
+- cecaa
+- ff
+- cdcdfd
+- fbffe
+- b
+- bcefb
+- e
+- fbbcb
+- cbecd
+- cb
+- d
+- efffa
+- edb
+- bfdd
+- faeaf
+- cefae
+- bb
+- f
+- ecebbe
+- eb
+- b
+- ab
+- caa
+- da
+- ebd
+- adaf
+- aabf
+- abfff
+- bbd
+- cfdfff
+- a
+- efaa
+- fdaef
+- cdddbc
+- b
+- cc
+- fdc
+- dbac
+- bfe
+- daacf
+- cafa
+- b
+- aebcb
+- e
+- cbcde
+- e
+- adcfcb
+- a
+- c
+- bdfab
+- fbfdaa
+- cdba
+- fbb
+- dbfd
+- be
+- ecbda
+- f
+- bd
+- eecdcc
+- a
+- ac
+- eccddb
+- ccc
+- cac
+- bba
+- ceec
+- ffdb
+- daeacd
+- efedc
+- be
+- d
+- bccee
+- cdad
+- cbcfdd
+- acaee
+- cb
+- badabb
+- cdcfdb
+- ec
+- cbe
+- abea
+- bfc
+- eaadc
+- c
+- baeaad
+- aebdae
+- edacd
+- cfa
+- bbffb
+- d
+- be
+- a
+- cea
+- fdcbfc
+- bbaf
+- cebefe
+- c
+- dcc
+- b
+- ccbd
+- bece
+- bbacce
+- ccabbc
+- de
+- dbe
+- dafac
+- adab
+- ea
+- eee
+- fbcf
+- afffce
+- ccffa
+- dbad
+- c
+- dacd
+- cc
+- ceb
+- ddfcba
+- dcacfe
+- fbffcc
+- ddffab
+- ef
+- fedfd
+- fafd
+- cbf
+- c
+- bfb
+- fbfed
+- feebfc
+- cdcf
+- ff
+- cffce
+- cdefbb
+- cfcdda
+- fbbfca
+- c
+- aecc
+- baea
+- ccaab
+- c
+- adddf
+- aaee
+- f
+- ee
+- eaf
+- baff
+- a
+- dd
+- bdaac
+- fcde
+- b
+- d
+- ffb
+- cc
+- ccaa
+- b
+- eddfb
+- beab
+- efecda
+- a
+- fccafe
+- eff
+- b
+- c
+- edcdcb
+- fafcbe
+- edeba
+- ab
+- cd
+- ededf
+- dbadbb
+- fcabc
+- aaa
+- f
+- efbfbb
+- ebfea
+- cacfbd
+- b
+- b
+- bcfbcd
+- ff
+- bbbeea
+- fb
+- af
+- acb
+- bec
+- cde
+- ff
+- acce
+- ff
+- acfdd
+- adbc
+- dddfef
+- afaf
+- eae
+- bcf
+- a
+- fffbb
+- caafa
+- ada
+- df
+- bb
+- bdfcfe
+- ffaabb
+- de
+- bff
+- ddea
+- dbb
+- a
+- faa
+- adae
+- ebb
+- d
+- d
+- acbcab
+- fbdeb
+- beebf
+- cfe
+- abe
+- eab
+- ddbabf
+- eae
+- fccd
+- bafdf
+- cbfe
+- de
+- abbfa
+- c
+- debba
+- e
+- acdf
+- cebde
+- a
+- acfbfe
+- faea
+- afcf
+- a
+- fd
+- fbefff
+- faafdc
+- edadbc
+- ecb
+- adadbd
+- ac
+- eb
+- f
+- fedba
+- eecde
+- c
+- eec
+- ff
+- bd
+- ecbea
+- edfeab
+- ec
+- c
+- debf
+- cfdee
+- f
+- a
+- dddeac
+- adbca
+- b
+- bce
+- febcc
+- efd
+- fba
+- f
+- edfd
+- ce
+- acd
+- bff
+- cbdfc
+- bbb
+- e
+- bddca
+- fddcf
+- affae
+- fe
+- dcee
+- c
+- afd
+- d
+- ccf
+- c
+- aac
+- decebc
+- adece
+- d
+- bcbcdb
+- ddbcce
+- bacfcb
+- ed
+- acdfcb
+- cceef
+- dabecd
+- fea
+- bbd
+- bac
+- addbe
+- dadbdd
+- eeaef
+- cfae
+- eeafbe
+- acadd
+- dace
+- bfcb
+- feaed
+- b
+- ecbdcd
+- fecac
+- c
+- fbee
+- cacaeb
+- fcdc
+- f
+- bbeea
+- fcfaee
+- ceffee
+- dc
+- e
+- cbbbcf
+- aeafec
+- accd
+- fbe
+- aa
+- efabb
+- adbfad
+- ceccdf
+- bbece
+- ef
+- b
+- ef
+- fdbcd
+- ac
+- ddffc
+- be
+- cfdd
+- e
+- c
+- ffbc
+- e
+- ebabfe
+- dc
+- dda
+- fe
+- d
+- c
+- cbd
+- fcfb
+- d
+- ffddfc
+- c
+- adfbf
+- d
+- add
+- bade
+- bfc
+- bdc
+- cafd
+- bfdcdb
+- a
+- ddb
+- eeff
+- abc
+- ad
+- adfbaa
+- ddbdcc
+- eedda
+- afccc
+- bdcb
+- d
+- adbb
+- febae
+- eebd
+- ebffc
+- d
+- cfd
+- cdd
+- bffd
+- adbab
+- bace
+- dcdaf
+- ae
+- fbbaa
+- d
+- cdbde
+- dedf
+- fbdee
+- def
+- cfdbac
+- ded
+- af
+- efdfdd
+- fdcae
+- ecc
+- fb
+- eff
+- deaee
+- bdfeaa
+- cebdef
+- abbbeb
+- bdbdb
+- cfeedd
+- e
+- c
+- ddbd
+- cf
+- aadbf
+- a
+- dbdd
+- d
+- fc
+- cfeca
+- ddfaef
+- ccbaa
+- bd
+- ecfaea
+- fff
+- fdb
+- acbf
+- fafe
+- d
+- cbda
+- ae
+- abddee
+- aedd
+- aecdb
+- aec
+- bccc
+- e
+- d
+- ee
+- cabda
+- bebfcb
+- a
+- aceb
+- e
+- fac
+- fdff
+- ae
+- ecaeeb
+- c
+- abee
+- ce
+- bce
+- c
+- cbeedf
+- baeac
+- dfc
+- cf
+- dbe
+- ecc
+- e
+- cbbfd
+- abc
+- ae
+- cadc
+- ace
+- e
+- fbf
+- ebdf
+- ebbe
+- cab
+- cabd
+- daaaf
+- badcce
+- a
+- fbcee
+- eabfba
+- beb
+- dccdc
+- ef
+- dcfb
+- e
+- fb
+- abfbdf
+- abfb
+- bbe
+- acedf
+- aebeb
+- fcf
+- aea
+- bf
+- cab
+- af
+- abbcfa
+- cfa
+- b
+- fcfdce
+- bac
+- feafbe
+- badbc
+- faad
+- f
+- ea
+- ee
+- aacf
+- aefa
+- fbba
+- bcdcce
+- cabcdb
+- dde
+- cafd
+- fbbfd
+- bcb
+- efcaff
+- c
+- f
+- feda
+- eebec
+- d
+- bba
+- badbcb
+- aec
+- caefbe
+- daec
+- c
+- faee
+- cab
+- da
+- bc
+- c
+- aaaeaa
+- e
+- accb
+- bec
+- ffbedc
+- bbecad
+- fbcdaa
+- ddbe
+- ca
+- a
+- fe
+- ffed
+- bcfebc
+- fdadba
+- e
+- afaabd
+- caeabb
+- fbecf
+- eeaddc
+- bac
+- fbd
+- cdfa
+- afd
+- a
+- a
+- bfc
+- c
+- b
+- abf
+- fae
+- f
+- dfdee
+- c
+- be
+- bbadb
+- baedba
+- bd
+- fd
+- ba
+- cfaff
+- e
+- c
+- deccf
+- ca
+- fafdd
+- eac
+- ebcc
+- babdff
+- ebcbd
+- bbed
+- ffeeab
+- aa
+- acded
+- faaadd
+- fddb
+- ebf
+- bde
+- ac
+- cdbdb
+- ddfcbf
+- f
+- c
+- afa
+- acfc
+- baceb
+- cffecc
+- fcfeb
+- ddfd
+- f
+- deb
+- dfe
+- dbbece
+- cfef
+- eccfcf
+- ffbbad
+- daca
+- bdbdac
+- be
+- e
+- ceccd
+- eafbcb
+- ecc
+- aae
+- dfdaca
+- ac
+- aeebce
+- ddbd
+- bdadb
+- aeb
+- efae
+- bec
+- e
+- ac
+- bcbd
+- decbfa
+- bf
+- ddcef
+- accafb
+- ca
+- cceb
+- b
+- fcaf
+- ae
+- dae
+- fdd
+- ffdfc
+- cdaa
+- fdfda
+- aedcaf
+- aceae
+- deaf
+- efbe
+- fffb
+- ecfcbd
+- fbca
+- bdbaa
+- cce
+- b
+- d
+- df
+- abd
+- eeafc
+- eff
+- ffb
+- dd
+- a
+- feffbb
+- b
+- bfaf
+- db
+- ebc
+- cbfa
+- acdfbc
+- fcfdb
+- f
+- cdcd
+- ba
+- f
+- bc
+- fedede
+- cbd
+- eda
+- e
+- ebeabd
+- c
+- b
+- dd
+- f
+- fadebf
+- ccfafd
+- aeaa
+- fe
+- fca
+- fcfe
+- cffacf
+- efdaa
+- a
+- a
+- fbdbdc
+- eadfaf
+- dfc
+- dc
+- a
+- adce
+- fadd
+- ac
+- befe
+- daebed
+- acadae
+- bbadd
+- a
+- aea
+- e
+- cda
+- feca
+- fcd
+- dea
+- aaadf
+- ddcaad
+- a
+- ceaca
+- dfead
+- efda
+- bac
+- edeaac
+- dbee
+- b
+- de
+- db
+- f
+- e
+- dfdfb
+- e
+- dcbea
+- dffa
+- ceed
+- bbabda
+- bbbfcc
+- adc
+- c
+- d
+- aedcd
+- d
+- e
+- dbbe
+- ccd
+- cdf
+- bfedb
+- caa
+- eeb
+- ee
+- bdfda
+- baeffc
+- ab
+- ade
+- dcbda
+- fcd
+- a
+- f
+- fdabcb
+- ad
+- de
+- bba
+- fb
+- aee
+- dd
+- ecdd
+- def
+- afef
+- cdf
+- dcbaf
+- deaaeb
+- baacda
+- bfb
+- dea
+- aefbcf
+- ac
+- dece
+- bbd
+- aaeaae
+- eab
+- cd
+- abfdd
+- cff
+- fbd
+- dfa
+- de
+- dcee
+- dbdaa
+- ecaccb
+- dcd
+- fcefdb
+- debace
+- abdfbb
+- befd
+- bdffb
+- dbfc
+- aabcb
+- ef
+- dd
+- ceea
+- eece
+- babcba
+- afec
+- aceafa
+- fbe
+- bfce
+- ca
+- ebb
+- ebbdfe
+- dbecf
+- ab
+- daeed
+- efc
+- ddf
+- fd
+- cacd
+- c
+- aafe
+- f
+- a
+- dffcec
+- aaeae
+- db
+- e
+- fdbaed
+- badfb
+- bca
+- afdef
+- faaefc
+- aa
+- afcbcd
+- aeab
+- eaeca
+- abbdb
+- fbfabd
+- efcd
+- edbe
+- fedce
+- bacaa
+- cfdb
+- baae
+- dfbad
+- aff
+- dbf
+- fec
+- ef
+- d
+- b
+- aadafa
+- faaa
+- d
+- ababde
+- face
+- cd
+- bbdbc
+- ceffe
+- aeaa
+- fed
+- faaf
+- becaa
+- bca
+- aefcf
+- ae
+- d
+- ddafe
+- aafbf
+- fda
+- cccd
+- f
+- c
+- ac
+- cebea
+- fdbe
+- efba
+- eaffb
+- ea
+- ff
+- ad
+- ecdf
+- bca
+- dea
+- cbdbad
+- dcbccb
+- cbdcef
+- ccabbb
+- bcabf
+- cbef
+- e
+- bfa
+- b
+- e
+- fffada
+- d
+- cdabf
+- dcedac
+- ecc
+- eecd
+- bbd
+- eac
+- aeddff
+- cec
+- fe
+- cdcdf
+- d
+- aeebfb
+- faab
+- afceef
+- adafa
+- dbfdc
+- babc
+- fdccc
+- cb
+- ed
+- ac
+- ebb
+- dc
+- e
+- bac
+- ccbba
+- ee
+- eecf
+- febf
+- afabaa
+- ecfedc
+- aeecc
+- ff
+- ac
+- af
+- fd
+- f
+- d
+- dabdc
+- bf
+- bb
+- aaf
+- aaa
+- a
+- adbbd
+- cbff
+- ecadbf
+- e
+- dcdb
+- abebfe
+- abc
+- a
+- ea
+- cf
+- d
+- eccfde
+- cddae
+- efed
+- aafb
+- fefafb
+- beebeb
+- bdfabc
+- ddc
+- aeed
+- aacaa
+- aa
+- eede
+- efa
+- bbeefb
+- caea
+- db
+- aadacb
+- ca
+- ecb
+- bbd
+- fcedfa
+- fafea
+- deedd
+- ccfda
+- fbbdda
+- dbcaec
+- daae
+- a
+- cdda
+- bcae
+- fcd
+- f
+- b
+- b
+- c
+- cbabdb
+- dfcdad
+- ccaa
+- aa
+- c
+- e
+- adfbff
+- abbd
+- eabfb
+- fedf
+- bb
+- dc
+- aecd
+- afaebf
+- dcd
+- f
+- beccca
+- ad
+- baec
+- a
+- bdbde
+- fe
+- e
+- cbdc
+- daacee
+- ada
+- efcdce
+- baa
+- ccf
+- aadfa
+- bebdbf
+- d
+- abccad
+- abbacb
+- dbbee
+- edaadc
+- ccd
+- ccbece
+- debc
+- ed
+- f
+- ec
+- c
+- cfdbae
+- ff
+- dafeac
+- dacfa
+- bdbf
+- bbd
+- ffbc
+- debdfc
+- ccf
+- bbadfe
+- cc
+- e
+- ecbec
+- ffbf
+- cde
+- efb
+- d
+- dfcabd
+- d
+- f
+- bb
+- fffdca
+- dde
+- af
+- afd
+- afacdb
+- ffabab
+- da
+- fdf
+- dccade
+- eebebe
+- eddcd
+- beeebe
+- e
+- fc
+- ffdd
+- fafd
+- dd
+- ffbab
+- bed
+- a
+- ffd
+- f
+- ffecab
+- eb
+- cefbad
+- acedff
+- cdb
+- f
+- ad
+- bcfdc
+- f
+- abdb
+- bbad
+- befbd
+- fedcae
+- affafc
+- fbaac
+- ebc
+- efadfd
+- cbdbd
+- eebbcb
+- ceade
+- cca
+- eaefac
+- fabb
+- dddcfb
+- ddaa
+- edacd
+- afcfdb
+- ab
+- bf
+- eea
+- fabab
+- faab
+- dded
+- ca
+- a
+- dfaeca
+- ebce
+- b
+- dafcaa
+- dced
+- fcefc
+- a
+- fdccbc
+- daea
+- cdecb
+- b
+- cbecdd
+- acb
+- e
+- becb
+- eb
+- dbde
+- afce
+- fb
+- c
+- eeed
+- ffea
+- fbbeda
+- fef
+- cf
+- bbffca
+- eead
+- cee
+- bafcfe
+- aafcee
+- efeabe
+- cdb
+- e
+- dccea
+- a
+- a
+- bccbfa
+- ef
+- ad
+- cd
+- cfc
+- da
+- ea
+- aeacd
+- d
+- ddbd
+- aaeec
+- ca
+- afd
+- ec
+- f
+- b
+- ddbf
+- b
+- edcd
+- cedc
+- efbd
+- aaf
+- eca
+- dff
+- ceddbd
+- fbabe
+- f
+- cdafac
+- dddbaf
+- defadc
+- e
+- da
+- fcffaf
+- bddb
+- f
+- ddfca
+- fea
+- fdbbd
+- edbbc
+- bdfbed
+- cf
+- fbefe
+- fdda
+- dfcce
+- b
+- caefda
+- dacbac
+- acfa
+- a
+- bdbf
+- bc
+- dc
+- a
+- edc
+- bddafb
+- b
+- bbd
+- db
+- cfc
+- feeb
+- fdbf
+- aaf
+- af
+- afedfb
+- c
+- cdccac
+- b
+- ddc
+- ceaceb
+- edadf
+- df
+- af
+- abbe
+- c
+- ddde
+- aabb
+- c
+- daf
+- bf
+- cb
+- bddfee
+- deee
+- cfbfcf
+- decd
+- baea
+- ddb
+- eddea
+- afc
+- eafc
+- c
+- eeacde
+- bdbfa
+- fbaae
+- ffcd
+- eead
+- efbce
+- eaff
+- d
+- d
+- bbc
+- fdcf
+- df
+- afb
+- cad
+- acbdd
+- abafde
+- eaa
+- eb
+- bf
+- bcaab
+- daeafb
+- eafee
+- ffdfec
+- fcecaa
+- dc
+- baeceb
+- afab
+- baecee
+- bd
+- abe
+- fdabcc
+- bebafb
+- e
+- d
+- fbc
+- bcdcb
+- f
+- aabae
+- d
+- acfa
+- dddec
+- edb
+- abeabc
+- fadff
+- adcebf
+- dbc
+- aaccfb
+- ffb
+- f
+- dbbda
+- cefcd
+- bdbbf
+- be
+- ddce
+- bda
+- b
+- fcf
+- eee
+- accbba
+- d
+- befda
+- cabefd
+- cfd
+- dfeea
+- cb
+- d
+- dab
+- cdbd
+- b
+- ce
+- fadaa
+- cdaeb
+- bdec
+- d
+- dd
+- efafa
+- aba
+- fcffb
+- aeb
+- faabd
+- eddfea
+- bdfefb
+- ca
+- ed
+- faedd
+- bda
+- ade
+- aea
+- fbafb
+- bf
+- bed
+- ddbe
+- cfccab
+- d
+- eabb
+- bb
+- dd
+- c

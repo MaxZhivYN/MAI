@@ -1,0 +1,38 @@
+plugins {
+    id 'java'
+    id 'application'
+}
+
+group 'com.interrao.zhivmax.server'
+version '1.0-SNAPSHOT'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+    jcenter()
+    maven{url "http://jasperreports.sourceforge.net/maven2/"}
+    maven{url "http://jaspersoft.artifactoryonline.com/jaspersoft/third-party-ce-artifacts/"}
+}
+
+configurations {
+    jasperreports {
+        transitive = true
+    }
+}
+
+application {
+    mainClassName = 'Server'
+    applicationDefaultJvmArgs = ['-Dgreeting.language=en']
+    executableDir = 'custom_bin_dir'
+}
+
+dependencies {
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+    // https://mvnrepository.com/artifact/net.sf.jasperreports/jasperreports
+    compile group: 'net.sf.jasperreports', name: 'jasperreports', version: '6.1.0'
+    // https://mvnrepository.com/artifact/postgresql/postgresql
+    compile group: 'postgresql', name: 'postgresql', version: '9.0-801.jdbc4'
+
+    compile files('libs/ojdbc7.jar')
+}
